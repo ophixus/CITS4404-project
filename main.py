@@ -4,8 +4,10 @@ import pandas as pd
 
 # Fetch historical data from Kraken exchange
 # Returns OHLCV data as a list of lists
-def fetch_data():
-    pass
+def fetch_data(timeframe):
+    exchange = ccxt.kraken()
+    ohlcv = exchange.fetch_ohlcv('BTC/AUD', timeframe=timeframe)
+    return ohlcv
 
 # Trading bot class that will be used to run the trading strategy
 class TradingBot:
@@ -48,7 +50,7 @@ class TradingBot:
 
 # Main function
 def main():
-    data = fetch_data()
+    data = fetch_data('1m')
     bot = TradingBot(data)
     bot.run()
 
