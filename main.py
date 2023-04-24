@@ -1,10 +1,13 @@
 import ccxt
-import ta
+from ta import momentum, trend, volatility, volume
 import pandas as pd
+import numpy as np
 
 # Constants
 START_BALANCE = 100
 FEES = 0.02
+WINDOW_SIZE = 60  # 1 minute timeframe to hourly
+
 
 # Fetch historical data from Kraken exchange
 # Returns OHLCV data as a list of lists
@@ -28,8 +31,18 @@ class TradingBot:
     # Stores results as a dataframe with the indicators
     def calculate_indicators(self):
         self.df = pd.DataFrame(self.data, columns=['timestamp', 'open', 'high', 'low', 'close', 'volume'])
-        self.df['macd_diff'] = ta.trend.macd_diff(self.df['close'], window_slow=26, window_fast=12)
-        self.df['rsi'] = ta.momentum.rsi(self.df['close'], window=14)
+        self.df['macd_diff'] = trend.macd_diff(self.df['close'], window_slow=WINDOW_SIZE*2, window_fast=WINDOW_SIZE)
+        self.df['rsi'] = momentum.rsi(self.df['close'], window=WINDOW_SIZE)
+        self.df['hourly_change'] = momentum.roc(self.df['close'], window=WINDOW_SIZE)
+        self.df['minute_change'] = momentum.roc(self.df['close'], window=1)
+        self.df['ma_hourly'] = trend.sma_indicator(self.df['close'], window=WINDOW_SIZE)
+        self.df['ma_diff_1m'] = momentum.roc(self.df['ma_hourly'], window=1)
+        self.df['ma_diff_1h'] = momentum.roc(self.df['ma_hourly'], window=WINDOW_SIZE)
+        self.df['bollinger_upper'] = volatility.bollinger_hband(self.df['close'], window=WINDOW_SIZE, window_dev=2)
+        self.df['bollinger_lower'] = volatility.bollinger_lband(self.df['close'], window=WINDOW_SIZE, window_dev=2)
+        self.df['bollinger_diff'] = self.df['bollinger_upper'] - self.df['bollinger_lower']
+        self.df['eom'] = volume.ease_of_movement(self.df['high'], self.df['low'], self.df['volume'], window=WINDOW_SIZE)
+        
 
     # Determines if a buy signal should be triggered
     # Returns True if parameters are met, False otherwise
