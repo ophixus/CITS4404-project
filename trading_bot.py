@@ -24,14 +24,14 @@ class TradingBot:
     # Returns a function that takes a timeframe and returns True or False if the trigger is met
     def generate_triggers(self, expressions):
         def buy_trigger(t):
-            macd_diff = self.df['macd_diff'][t] > PARAMETERS['buy_macd_diff']
-            rsi = self.df['rsi'][t] < PARAMETERS['buy_rsi']
-            buy_expr = macd_diff and rsi # Will eventually be replaced by expressions[0]
+            macd_diff = self.df['macd_diff'][t]
+            rsi = self.df['rsi'][t]
+            buy_expr = expressions[0](t, macd_diff, rsi)
             return buy_expr
         def sell_trigger(t):
-            macd_diff = self.df['macd_diff'][t] < PARAMETERS['sell_macd_diff']
-            rsi = self.df['rsi'][t] > PARAMETERS['sell_rsi']
-            sell_expr = macd_diff and rsi # Will eventually be replaced by expressions[1]
+            macd_diff = self.df['macd_diff'][t]
+            rsi = self.df['rsi'][t]
+            sell_expr = expressions[1](t, macd_diff, rsi)
             return sell_expr
         return buy_trigger, sell_trigger
 

@@ -2,7 +2,7 @@ import ccxt
 import ta
 import pandas as pd
 from trading_bot import TradingBot
-# from optimisation_[STRATEGY NAME] import optimise_triggers
+from optimisation_gp import optimise_triggers
 
 # Fetch historical data from Kraken exchange
 # Returns OHLCV data as a list of lists
@@ -23,9 +23,9 @@ def calculate_indicators(data):
 def main():
     data = fetch_data('1m')
     df = calculate_indicators(data)
-    expressions = [] # Will eventually be replaced by optimise_triggers(df)
+    expr = optimise_triggers(df)
     bot = TradingBot(df)
-    bot.set_trigger_expressions(expressions)
+    bot.set_trigger_expressions(expr)
     bot.run(True)
 
 # Run main function
