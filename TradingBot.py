@@ -19,7 +19,6 @@ class TradingBot:
         self.limit = limit
         self.data = self.fetch_data()
         self.data = self.prepare_dataframe()
-        self.data = self.calculate_indicators()
     #fetches historical data for the specified symbol, timeframe and limit from the Kraken exchange
     def fetch_data(self):
         exchange = ccxt.kraken()
@@ -35,39 +34,34 @@ class TradingBot:
         return df
     # calculates the short and long simple moving averages (SMA) for the given data
     # calculates the relative strength index (RSI) for the given data
-    def calculate_indicators(self):
-        short_sma = SMAIndicator(close=self.data["close"], window=self.short_window, fillna=True)
-        long_sma = SMAIndicator(close=self.data["close"], window=self.long_window, fillna=True)
-        rsi = RSIIndicator(close=self.data["close"], window=self.rsi_window, fillna=True)
-        self.data["short_sma"] = short_sma.sma_indicator()
-        self.data["long_sma"] = long_sma.sma_indicator()
-        self.data["rsi"] = rsi.rsi()
-        return self.data
     
-    def buy_condition(self, t,p):
-        short_sma = self.data['short_sma'].iloc[t]
-        long_sma = self.data['long_sma'].iloc[t] 
-        return short_sma > (long_sma*p )
-    def sell_condition(self, t, p):
-        short_sma = self.data['short_sma'].iloc[t]
-        long_sma = self.data['long_sma'].iloc[t]
+    def buy_condition(self, t,p,short_window,long_window):
+        short_sma = SMAIndicator(close=self.data["close"], window=short_window, fillna=True).sma_indicator().iloc[t]
+        long_sma = SMAIndicator(close=self.data["close"], window=long_window, fillna=True).sma_indicator().iloc[t]
+        return short_sma > (long_sma*p)
+    def sell_condition(self, t, p,short_window,long_window):
+        short_sma = SMAIndicator(close=self.data["close"], window=short_window, fillna=True).sma_indicator().iloc[t]
+        long_sma = SMAIndicator(close=self.data["close"], window=long_window, fillna=True).sma_indicator().iloc[t]
         return short_sma < (long_sma * p)
     # Define buy and sell triggers for the bot according to the task requirements
-    def buy_trigger(self, t, p):
-        buy_t = self.buy_condition(t, p)
-        buy_t_1 = self.buy_condition(t - 1, p)
-        sell_t = self.sell_condition(t, p)
-        sell_t_1 = self.sell_condition(t - 1, p)
+    def buy_trigger(self, t, p,short_window,long_window):
+        buy_t = self.buy_condition(t, p,short_window,long_window)
+        buy_t_1 = self.buy_condition(t - 1, p,short_window,long_window)
+        sell_t = self.sell_condition(t, p,short_window,long_window)
+        sell_t_1 = self.sell_condition(t - 1, p,short_window,long_window)
         return buy_t and not buy_t_1 and not (sell_t and not sell_t_1)
-    def sell_trigger(self, t, p):
-        sell_t = self.sell_condition(t, p)
-        sell_t_1 = self.sell_condition(t - 1, p)
-        buy_t = self.buy_condition(t, p)
-        buy_t_1 = self.buy_condition(t - 1, p)
+    def sell_trigger(self, t, p,short_window,long_window):
+        sell_t = self.sell_condition(t, p,short_window,long_window)
+        sell_t_1 = self.sell_condition(t - 1, p,short_window,long_window)
+        buy_t = self.buy_condition(t, p,short_window,long_window)
+        buy_t_1 = self.buy_condition(t - 1, p,short_window,long_window)
         return sell_t and not sell_t_1 and not (buy_t and not buy_t_1)
     # executes the trades based on the buy and sell triggers
-    def execute_trades(self, p):
+    def execute_trades(self, p,short_window,long_window):
         # Start with 100 AUD
+        p = float(p)
+        short_window = int(round(short_window))
+        long_window = int(round(long_window))
         cash = 100.0
         btc = 0.0
         # Assume that the trading fees are 2% per transaction
@@ -76,12 +70,12 @@ class TradingBot:
         # Loop over the time series data
         for t in range(len(self.data)):
             # If we have cash and a buy trigger occurs
-            if cash > 0 and self.buy_trigger(t, p):
+            if cash > 0 and self.buy_trigger(t, p,short_window,long_window):
                 # Buy BTC with all available cash (minus the trading fee)
                 btc = (cash * (1 - trading_fee)) / self.data['close'].iloc[t]
                 cash = 0
             # If we have BTC and a sell trigger occurs
-            elif btc > 0 and self.sell_trigger(t, p):
+            elif btc > 0 and self.sell_trigger(t, p,short_window,long_window):
                 # Sell all BTC for cash (minus the trading fee)
                 cash = btc * self.data['close'].iloc[t] * (1 - trading_fee)
                 btc = 0
@@ -92,28 +86,57 @@ class TradingBot:
 
         # Return the final amount of cash
         return cash
-    def optimize_p(self):
-        # Define a grid of possible P values
-        p_values = np.linspace(0.8, 1.2, 50)  # Change this range based on your expectations
-        grid = ParameterGrid({'P': p_values})
+    
+    
+    def ADE(self):
+        # Initialize parameters
+        n = 100    # population size
+        D = 3     # number of dimensions
+        F = 0.5    # scale factor for mutation
+        CR = 0.8   # crossover rate
+        MaxFEs = 50 # Maximum number of function evaluations
+        P_range = (0.6, 1.5)
+        short_window_range = (5, 30)
+        long_window_range = (10, 60)
+        # Initialize population with random values within P_range
+        population = np.empty((n, D))
+        population[:, 0] = np.random.uniform(P_range[0], P_range[1], n)
+        population[:, 1] = np.random.randint(short_window_range[0], short_window_range[1], n)
+        population[:, 2] = np.random.randint(long_window_range[0], long_window_range[1], n)
 
-        best_score = float('-inf')  # Initialize the best score as negative infinity
-        best_p = None  # Initialize the best P value
-
-        # Iterate over all possible P values in the grid
-        for params in grid:
-            P = params['P']
-            score = self.execute_trades(P)  # You need to define this method to evaluate your strategy
-            if score > best_score:
-                best_score = score
-                best_p = P
-        return best_score
+        for gen in range(MaxFEs // n):
+            # DE/rand/1 mutation and crossover
+            mutated_population = np.empty_like(population)
+            for i in range(n):
+                r1, r2, r3 = population[np.random.choice(n, 3, replace=False)]
+                vi = r1 + F * (r2 - r3)  # DE/rand/1 mutation
+                # Crossover
+                ui = np.where(np.random.rand(D) < CR, vi, population[i])
+                mutated_population[i] = ui
+            # TLLS-based local search
+            offspring_population = np.empty_like(population)
+            for i in range(n):
+                sigma = 10**(-1 - (10 / (D + 3)) * (gen * n + i) / MaxFEs)
+                v1, v2 = np.random.normal(mutated_population[i], sigma, (2, D))
+                offspring_population[i] = max([v1, v2, mutated_population[i]], key=lambda x: self.execute_trades(*x))
+            # Crowding-based selection
+            next_population = np.empty_like(population)
+            for i in range(n):
+                uti = offspring_population[i]
+                xtnn = min(population, key=lambda x: np.linalg.norm(x-uti))
+                if self.execute_trades(*uti) >= self.execute_trades(*xtnn):
+                    next_population[i] = uti
+                else:
+                    next_population[i] = xtnn
+            population = next_population
+        print(self.execute_trades(*max(population, key=lambda x: self.execute_trades(*x))), max(population, key=lambda x: self.execute_trades(*x)))
+        return(self.execute_trades(*max(population, key=lambda x: self.execute_trades(*x))), max(population, key=lambda x: self.execute_trades(*x)))
+        
 
 def main():
-    
     bot = TradingBot('BTC/AUD')
-    final_cash = bot.optimize_p()
-    print('Final amount of cash:', final_cash)
+    bot.ADE()
+    
 
 if __name__ == '__main__':
     main()
