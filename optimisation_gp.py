@@ -57,19 +57,34 @@ def evaluate(individual, bot):
     # Compile individual
     buy_trigger = gp.compile(individual[0], pset=pset)
     sell_trigger = gp.compile(individual[1], pset=pset)
-    # Check if trigger changes state
+    # Check if function is valid, i.e. changes with input
     if buy_trigger(1, 0, 0) == buy_trigger(1, 1, 1) and sell_trigger(1, 0, 0) == sell_trigger(1, 1, 1):
-        return PENALTY,PENALTY
+        return PENALTY, PENALTY
+    # Check if the expression is valid
+    if not is_valid(individual):
+        return PENALTY, PENALTY
     # Simulate trades
     bot.set_trigger_expressions([buy_trigger, sell_trigger])
     p = bot.run()
     # Penalise if one or less trades are made
     if p['total_trades'] <= 1:
-        return PENALTY,PENALTY
+        return PENALTY, PENALTY
     return p['net_profit'], p['average_profit']
 
+# Checks if an individual is valid
+# Returns True if valid, otherwise False
+def is_valid(individual):
+    for expr in individual:
+        # Limit the height of the tree
+        if expr.height > 5:
+            return False
+        # At least one indicator must be used
+        if 'macd_diff' not in str(expr) and 'rsi' not in str(expr):
+            return False
+    return True
+
 # Create primitive set
-pset = gp.PrimitiveSetTyped('MAIN', [float for n in range(3)], bool)
+pset = gp.PrimitiveSetTyped('MAIN', [float, float, float], bool)
 pset.renameArguments(ARG0='t')
 pset.renameArguments(ARG1='macd_diff')
 pset.renameArguments(ARG2='rsi')
@@ -95,7 +110,7 @@ pset.addEphemeralConstant('random_number', lambda: float(random.randint(-100, 10
 pset.addEphemeralConstant('random_boolean', lambda: bool(random.randint(0, 1)), bool)
 
 # Create fitness function and individual class
-creator.create('FitnessMax', base.Fitness, weights=(0.8, 0.2))
+creator.create('FitnessMax', base.Fitness, weights=(1, 0.1))    # Change this line if you want to change the weights
 creator.create('Individual', list, fitness=creator.FitnessMax)
 creator.create('Gene', gp.PrimitiveTree, pset=pset)
 
