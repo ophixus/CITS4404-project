@@ -1,0 +1,3310 @@
+Total Return: 45.3'
+'Net Profit: -54.7%'
+'Risk: 49.7%
+Total Return: 73.91'
+'Net Profit: -26.09%'
+'Risk: 49.59%
+Total Return: 50.86'
+'Net Profit: -49.14%'
+'Risk: 48.09%
+Total Return: 76.17'
+'Net Profit: -23.83%'
+'Risk: 49.68%
+Total Return: 79.06'
+'Net Profit: -20.94%'
+'Risk: 51.03%
+Total Return: 67.77'
+'Net Profit: -32.23%'
+'Risk: 46.49%
+Total Return: 79.93'
+'Net Profit: -20.07%'
+'Risk: 52.4%
+Total Return: 120.96'
+'Net Profit: 20.96%'
+'Risk: 50.5%
+Total Return: 35.44'
+'Net Profit: -64.56%'
+'Risk: 51.91%
+Total Return: 38.36'
+'Net Profit: -61.64%'
+'Risk: 50.01%
+Total Return: 80.5'
+'Net Profit: -19.5%'
+'Risk: 48.09%
+Total Return: 82.35'
+'Net Profit: -17.65%'
+'Risk: 49.99%
+Total Return: 84.74'
+'Net Profit: -15.26%'
+'Risk: 48.51%
+Total Return: 117.82'
+'Net Profit: 17.82%'
+'Risk: 55.44%
+Total Return: 101.32'
+'Net Profit: 1.32%'
+'Risk: 51.15%
+Total Return: 98.37'
+'Net Profit: -1.63%'
+'Risk: 43.32%
+Total Return: 71.96'
+'Net Profit: -28.04%'
+'Risk: 47.59%
+Total Return: 80.28'
+'Net Profit: -19.72%'
+'Risk: 50.91%
+Total Return: 101.22'
+'Net Profit: 1.22%'
+'Risk: 50.32%
+Total Return: 88.65'
+'Net Profit: -11.35%'
+'Risk: 41.1%
+Total Return: 45.15'
+'Net Profit: -54.85%'
+'Risk: 48.74%
+Total Return: 99.48'
+'Net Profit: -0.52%'
+'Risk: 52.91%
+Total Return: 94.45'
+'Net Profit: -5.55%'
+'Risk: 55.94%
+Total Return: 35.5'
+'Net Profit: -64.5%'
+'Risk: 48.52%
+Total Return: 51.36'
+'Net Profit: -48.64%'
+'Risk: 48.0%
+Total Return: 81.0'
+'Net Profit: -19.0%'
+'Risk: 49.37%
+Total Return: 66.24'
+'Net Profit: -33.76%'
+'Risk: 49.28%
+Total Return: 93.74'
+'Net Profit: -6.26%'
+'Risk: 50.23%
+Total Return: 41.59'
+'Net Profit: -58.41%'
+'Risk: 48.57%
+Total Return: 25.66'
+'Net Profit: -74.34%'
+'Risk: 48.62%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 106.24'
+'Net Profit: 6.24%'
+'Risk: 3.76%
+'Net Profit: -15.89%'
+'Risk: 45.04%
+Total Return: 39.71'
+'Net Profit: -60.29%'
+'Risk: 49.64%
+Total Return: 99.27'
+'Net Profit: -0.73%'
+'Risk: 56.3%
+Total Return: 40.81'
+'Net Profit: -59.19%'
+'Risk: 49.55%
+Total Return: 73.07'
+'Net Profit: -26.93%'
+'Risk: 51.46%
+Total Return: 77.69'
+'Net Profit: -22.31%'
+'Risk: 50.88%
+Total Return: 67.16'
+'Net Profit: -32.84%'
+'Risk: 47.86%
+Total Return: 111.48'
+'Net Profit: 11.48%'
+'Risk: 51.12%
+Total Return: 60.15'
+'Net Profit: -39.85%'
+'Risk: 47.28%
+Total Return: 115.37'
+'Net Profit: 15.37%'
+'Risk: 51.55%
+Total Return: 40.56'
+'Net Profit: -59.44%'
+'Risk: 49.94%
+Total Return: 60.89'
+'Net Profit: -39.11%'
+'Risk: 50.26%
+Total Return: 28.1'
+'Net Profit: -71.9%'
+'Risk: 49.42%
+Total Return: 28.0'
+'Net Profit: -72.0%'
+'Risk: 51.15%
+Total Return: 70.61'
+'Net Profit: -29.39%'
+'Risk: 49.72%
+Total Return: 69.22'
+'Net Profit: -30.78%'
+'Risk: 48.04%
+Total Return: 94.15'
+'Net Profit: -5.85%'
+'Risk: 0.0%
+Total Return: 46.7'
+'Net Profit: -53.3%'
+'Risk: 50.38%
+Total Return: 105.95'
+'Net Profit: 5.95%'
+'Risk: 51.64%
+Total Return: 62.56'
+'Net Profit: -37.44%'
+'Risk: 53.06%
+Total Return: 82.51'
+'Net Profit: -17.49%'
+'Risk: 48.27%
+Total Return: 29.25'
+'Net Profit: -70.75%'
+'Risk: 48.5%
+Total Return: 66.67'
+'Net Profit: -33.33%'
+'Risk: 47.23%
+Total Return: 72.77'
+'Net Profit: -27.23%'
+'Risk: 47.36%
+Total Return: 36.43'
+'Net Profit: -63.57%'
+'Risk: 47.0%
+Total Return: 26.39'
+'Net Profit: -73.61%'
+'Risk: 50.63%
+Total Return: 79.34'
+'Net Profit: -20.66%'
+'Risk: 52.57%
+Total Return: 35.16'
+'Net Profit: -64.84%'
+'Risk: 48.75%
+Total Return: 97.83'
+'Net Profit: -2.17%'
+'Risk: 42.67%
+Total Return: 63.3'
+'Net Profit: -36.7%'
+'Risk: 49.5%
+Total Return: 83.92'
+'Net Profit: -16.08%'
+'Risk: 46.93%
+Total Return: 52.08'
+'Net Profit: -47.92%'
+'Risk: 52.57%
+Total Return: 98.5'
+'Net Profit: -1.5%'
+'Risk: 48.03%
+Total Return: 99.9'
+'Net Profit: -0.1%'
+'Risk: 48.54%
+Total Return: 55.23'
+'Net Profit: -44.77%'
+'Risk: 49.07%
+Total Return: 90.82'
+'Net Profit: -9.18%'
+'Risk: 0.0%
+Total Return: 46.02'
+'Net Profit: -53.98%'
+'Risk: 49.1%
+Total Return: 82.58'
+'Net Profit: -17.42%'
+'Risk: 50.91%
+Total Return: 54.38'
+'Net Profit: -45.62%'
+'Risk: 51.55%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 108.25'
+'Net Profit: 8.25%'
+'Risk: 53.31%
+Total Return: 54.7'
+'Net Profit: -45.3%'
+'Risk: 50.21%
+Total Return: 88.16'
+'Net Profit: -11.84%'
+'Risk: 52.26%
+Total Return: 104.6'
+'Net Profit: 4.6%'
+'Risk: 50.27%
+Total Return: 55.66'
+'Net Profit: -44.34%'
+'Risk: 50.16%
+Total Return: 35.09'
+'Net Profit: -64.91%'
+'Risk: 48.5%
+Total Return: 72.13'
+'Net Profit: -27.87%'
+'Risk: 47.98%
+Total Return: 48.02'
+'Net Profit: -51.98%'
+'Risk: 49.66%
+Total Return: 89.18'
+'Net Profit: -10.82%'
+'Risk: 46.29%
+Total Return: 54.88'
+'Net Profit: -45.12%'
+'Risk: 48.88%
+Total Return: 94.51'
+'Net Profit: -5.49%'
+'Risk: 0.0%
+Total Return: 46.47'
+'Net Profit: -53.53%'
+'Risk: 48.63%
+Total Return: 84.04'
+'Net Profit: -15.96%'
+'Risk: 48.53%
+Total Return: 37.6'
+'Net Profit: -62.4%'
+'Risk: 49.4%
+Total Return: 33.37'
+'Net Profit: -66.63%'
+'Risk: 50.93%
+Total Return: 77.64'
+'Net Profit: -22.36%'
+'Risk: 51.28%
+Total Return: 76.84'
+'Net Profit: -23.16%'
+'Risk: 52.66%
+Total Return: 61.02'
+'Net Profit: -38.98%'
+'Risk: 47.86%
+Total Return: 52.42'
+'Net Profit: -47.58%'
+'Risk: 50.31%
+Total Return: 34.59'
+'Net Profit: -65.41%'
+'Risk: 48.93%
+Total Return: 90.29'
+'Net Profit: -9.71%'
+'Risk: 0.0%
+Total Return: 54.82'
+'Net Profit: -45.18%'
+'Risk: 51.63%
+Total Return: 61.92'
+'Net Profit: -38.08%'
+'Risk: 45.14%
+Total Return: 80.18'
+'Net Profit: -19.82%'
+'Risk: 47.62%
+Total Return: 70.77'
+'Net Profit: -29.23%'
+'Risk: 46.53%
+Total Return: 90.02'
+'Net Profit: -9.98%'
+'Risk: 50.06%
+Total Return: 31.44'
+'Net Profit: -68.56%'
+'Risk: 49.14%
+Total Return: 73.45'
+'Net Profit: -26.55%'
+'Risk: 56.24%
+Generation:  0
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 67.42'
+'Net Profit: -32.58%'
+'Risk: 49.25%
+Total Return: 37.6'
+'Net Profit: -62.4%'
+'Risk: 49.4%
+Total Return: 93.74'
+'Net Profit: -6.26%'
+'Risk: 50.23%
+Total Return: 59.9'
+'Net Profit: -40.1%'
+'Risk: 49.79%
+Total Return: 66.16'
+'Net Profit: -33.84%'
+'Risk: 49.28%
+Total Return: 73.91'
+'Net Profit: -26.09%'
+'Risk: 49.59%
+Total Return: 81.0'
+'Net Profit: -19.0%'
+'Risk: 49.37%
+Total Return: 98.7'
+'Net Profit: -1.3%'
+'Risk: 49.42%
+Total Return: 47.74'
+'Net Profit: -52.26%'
+'Risk: 49.38%
+Total Return: 85.45'
+'Net Profit: -14.55%'
+'Risk: 49.41%
+Total Return: 99.89'
+'Net Profit: -0.11%'
+'Risk: 36.3%
+Total Return: 75.23'
+'Net Profit: -24.77%'
+'Risk: 47.27%
+Total Return: 96.81'
+'Net Profit: -3.19%'
+'Risk: 0.0%
+Total Return: 76.17'
+'Net Profit: -23.83%'
+'Risk: 49.68%
+Total Return: 99.27'
+'Net Profit: -0.73%'
+'Risk: 56.3%
+Total Return: 60.89'
+'Net Profit: -39.11%'
+'Risk: 50.26%
+Total Return: 104.6'
+'Net Profit: 4.6%'
+'Risk: 50.27%
+Total Return: 26.39'
+'Net Profit: -73.61%'
+'Risk: 50.63%
+Total Return: 108.25'
+'Net Profit: 8.25%'
+'Risk: 53.31%
+Total Return: 55.89'
+'Net Profit: -44.11%'
+'Risk: 46.74%
+Total Return: 96.87'
+'Net Profit: -3.13%'
+'Risk: 47.08%
+Total Return: 50.95'
+'Net Profit: -49.05%'
+'Risk: 48.05%
+Total Return: 62.81'
+'Net Profit: -37.19%'
+'Risk: 49.53%
+Total Return: 71.8'
+'Net Profit: -28.2%'
+'Risk: 49.52%
+Total Return: 23.51'
+'Net Profit: -76.49%'
+'Risk: 49.42%
+Total Return: 104.63'
+'Net Profit: 4.63%'
+'Risk: 46.52%
+Total Return: 75.47'
+'Net Profit: -24.53%'
+'Risk: 47.62%
+Total Return: 92.04'
+'Net Profit: -7.96%'
+'Risk: 6.11%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 84.35'
+'Net Profit: -15.65%'
+'Risk: 55.54%
+Total Return: 117.01'
+'Net Profit: 17.01%'
+'Risk: 54.86%
+Total Return: 62.34'
+'Net Profit: -37.66%'
+'Risk: 49.39%
+Total Return: 101.12'
+'Net Profit: 1.12%'
+'Risk: 0.0%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 123.11'
+'Net Profit: 23.11%'
+'Risk: 48.26%
+Total Return: 124.95'
+'Net Profit: 24.95%'
+'Risk: 54.35%
+Total Return: 90.62'
+'Net Profit: -9.38%'
+'Risk: 49.23%
+Total Return: 85.79'
+'Net Profit: -14.21%'
+'Risk: 49.48%
+Total Return: 37.15'
+'Net Profit: -62.85%'
+'Risk: 42.09%
+Total Return: 79.43'
+'Net Profit: -20.57%'
+'Risk: 50.85%
+Total Return: 97.23'
+'Net Profit: -2.77%'
+'Risk: 7.3%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 57.5'
+'Net Profit: -42.5%'
+'Risk: 49.39%
+Total Return: 42.48'
+'Net Profit: -57.52%'
+'Risk: 49.11%
+Total Return: 46.32'
+'Net Profit: -53.68%'
+'Risk: 50.94%
+Total Return: 52.09'
+'Net Profit: -47.91%'
+'Risk: 49.15%
+Total Return: 78.03'
+'Net Profit: -21.97%'
+'Risk: 46.39%
+Total Return: 50.37'
+'Net Profit: -49.63%'
+'Risk: 49.18%
+Total Return: 84.19'
+'Net Profit: -15.81%'
+'Risk: 45.76%
+Total Return: 77.69'
+'Net Profit: -22.31%'
+'Risk: 50.88%
+Total Return: 82.35'
+'Net Profit: -17.65%'
+'Risk: 49.99%
+Total Return: 74.59'
+'Net Profit: -25.41%'
+'Risk: 49.64%
+Total Return: 30.26'
+'Net Profit: -69.74%'
+'Risk: 50.13%
+Total Return: 66.18'
+'Net Profit: -33.82%'
+'Risk: 49.3%
+Total Return: 74.72'
+'Net Profit: -25.28%'
+'Risk: 46.69%
+Total Return: 73.48'
+'Net Profit: -26.52%'
+'Risk: 49.84%
+Total Return: 58.85'
+'Net Profit: -41.15%'
+'Risk: 50.68%
+Total Return: 98.1'
+'Net Profit: -1.9%'
+'Risk: 50.91%
+Total Return: 65.24'
+'Net Profit: -34.76%'
+'Risk: 48.96%
+Total Return: 50.51'
+'Net Profit: -49.49%'
+'Risk: 48.42%
+Total Return: 93.91'
+'Net Profit: -6.09%'
+'Risk: 53.18%
+Total Return: 103.22'
+'Net Profit: 3.22%'
+'Risk: 50.72%
+Total Return: 92.3'
+'Net Profit: -7.7%'
+'Risk: 50.96%
+Total Return: 85.33'
+'Net Profit: -14.67%'
+'Risk: 0.0%
+Total Return: 52.79'
+'Net Profit: -47.21%'
+'Risk: 44.56%
+Total Return: 84.04'
+'Net Profit: -15.96%'
+'Risk: 48.53%
+Total Return: 55.23'
+'Net Profit: -44.77%'
+'Risk: 49.07%
+Total Return: 119.88'
+'Net Profit: 19.88%'
+'Risk: 48.17%
+Total Return: 67.8'
+'Net Profit: -32.2%'
+'Risk: 52.61%
+Total Return: 79.93'
+'Net Profit: -20.07%'
+'Risk: 52.4%
+Total Return: 46.7'
+'Net Profit: -53.3%'
+'Risk: 50.38%
+Total Return: 104.16'
+'Net Profit: 4.16%'
+'Risk: 57.42%
+Total Return: 72.2'
+'Net Profit: -27.8%'
+'Risk: 50.78%
+Total Return: 58.55'
+'Net Profit: -41.45%'
+'Risk: 48.14%
+Total Return: 99.97'
+'Net Profit: -0.03%'
+'Risk: 51.47%
+Total Return: 115.04'
+'Net Profit: 15.04%'
+'Risk: 47.11%
+Total Return: 71.22'
+'Net Profit: -28.78%'
+'Risk: 38.05%
+Total Return: 71.45'
+'Net Profit: -28.55%'
+'Risk: 51.3%
+Total Return: 75.21'
+'Net Profit: -24.79%'
+'Risk: 50.4%
+Total Return: 81.0'
+'Net Profit: -19.0%'
+'Risk: 49.37%
+Total Return: 115.37'
+'Net Profit: 15.37%'
+'Risk: 51.55%
+Total Return: 89.61'
+'Net Profit: -10.39%'
+'Risk: 51.89%
+Total Return: 42.44'
+'Net Profit: -57.56%'
+'Risk: 48.42%
+Total Return: 79.83'
+'Net Profit: -20.17%'
+'Risk: 52.89%
+Total Return: 97.3'
+'Net Profit: -2.7%'
+'Risk: 52.38%
+Total Return: 69.22'
+'Net Profit: -30.78%'
+'Risk: 48.04%
+Total Return: 62.56'
+'Net Profit: -37.44%'
+'Risk: 53.06%
+Total Return: 67.65'
+'Net Profit: -32.35%'
+'Risk: 49.47%
+Total Return: 35.5'
+'Net Profit: -64.5%'
+'Risk: 48.52%
+Total Return: 99.9'
+'Net Profit: -0.1%'
+'Risk: 48.54%
+Total Return: 51.36'
+'Net Profit: -48.64%'
+'Risk: 48.0%
+Total Return: 72.8'
+'Net Profit: -27.2%'
+'Risk: 51.97%
+Total Return: 75.4'
+'Net Profit: -24.6%'
+'Risk: 49.42%
+Total Return: 96.91'
+'Net Profit: -3.09%'
+'Risk: 52.76%
+Total Return: 73.94'
+'Net Profit: -26.06%'
+'Risk: 43.02%
+Total Return: 36.15'
+'Net Profit: -63.85%'
+'Risk: 48.54%
+Total Return: 58.16'
+'Net Profit: -41.84%'
+'Risk: 51.74%
+Total Return: 71.83'
+'Net Profit: -28.17%'
+'Risk: 48.3%
+Total Return: 34.31'
+'Net Profit: -65.69%'
+'Risk: 50.41%
+Generation:  1
+Total Return: 118.92'
+'Net Profit: 18.92%'
+'Risk: 51.67%
+Total Return: 77.63'
+'Net Profit: -22.37%'
+'Risk: 47.42%
+Total Return: 47.6'
+'Net Profit: -52.4%'
+'Risk: 50.35%
+Total Return: 93.83'
+'Net Profit: -6.17%'
+'Risk: 48.7%
+Total Return: 37.15'
+'Net Profit: -62.85%'
+'Risk: 42.09%
+Total Return: 30.26'
+'Net Profit: -69.74%'
+'Risk: 50.13%
+Total Return: 94.34'
+'Net Profit: -5.66%'
+'Risk: 53.49%
+Total Return: 67.79'
+'Net Profit: -32.21%'
+'Risk: 47.01%
+Total Return: 71.01'
+'Net Profit: -28.99%'
+'Risk: 51.49%
+Total Return: 103.65'
+'Net Profit: 3.65%'
+'Risk: 51.13%
+Total Return: 53.68'
+'Net Profit: -46.32%'
+'Risk: 48.71%
+Total Return: 97.46'
+'Net Profit: -2.54%'
+'Risk: 50.26%
+Total Return: 63.45'
+'Net Profit: -36.55%'
+'Risk: 45.37%
+Total Return: 87.72'
+'Net Profit: -12.28%'
+'Risk: 52.07%
+Total Return: 64.43'
+'Net Profit: -35.57%'
+'Risk: 49.03%
+Total Return: 65.23'
+'Net Profit: -34.77%'
+'Risk: 49.11%
+Total Return: 64.71'
+'Net Profit: -35.29%'
+'Risk: 49.57%
+Total Return: 54.91'
+'Net Profit: -45.09%'
+'Risk: 44.44%
+Total Return: 58.5'
+'Net Profit: -41.5%'
+'Risk: 50.82%
+Total Return: 92.49'
+'Net Profit: -7.51%'
+'Risk: 53.48%
+Total Return: 32.83'
+'Net Profit: -67.17%'
+'Risk: 50.24%
+Total Return: 52.83'
+'Net Profit: -47.17%'
+'Risk: 48.55%
+Total Return: 76.17'
+'Net Profit: -23.83%'
+'Risk: 49.68%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 38.54'
+'Net Profit: -61.46%'
+'Risk: 49.84%
+Total Return: 52.7'
+'Net Profit: -47.3%'
+'Risk: 50.69%
+Total Return: 47.22'
+'Net Profit: -52.78%'
+'Risk: 49.58%
+Total Return: 73.45'
+'Net Profit: -26.55%'
+'Risk: 56.24%
+Total Return: 38.38'
+'Net Profit: -61.62%'
+'Risk: 49.93%
+Total Return: 101.88'
+'Net Profit: 1.88%'
+'Risk: 50.35%
+Total Return: 90.95'
+'Net Profit: -9.05%'
+'Risk: 53.55%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 38.0'
+'Net Profit: -62.0%'
+'Risk: 47.44%
+Total Return: 60.19'
+'Net Profit: -39.81%'
+'Risk: 52.56%
+Total Return: 65.57'
+'Net Profit: -34.43%'
+'Risk: 48.64%
+Total Return: 123.96'
+'Net Profit: 23.96%'
+'Risk: 46.84%
+Total Return: 47.48'
+'Net Profit: -52.52%'
+'Risk: 50.69%
+Total Return: 98.33'
+'Net Profit: -1.67%'
+'Risk: 53.44%
+Total Return: 109.23'
+'Net Profit: 9.23%'
+'Risk: 45.97%
+Total Return: 81.68'
+'Net Profit: -18.32%'
+'Risk: 44.7%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 115.37'
+'Net Profit: 15.37%'
+'Risk: 51.55%
+Total Return: 100.75'
+'Net Profit: 0.75%'
+'Risk: 0.0%
+Total Return: 73.23'
+'Net Profit: -26.77%'
+'Risk: 49.39%
+Total Return: 51.64'
+'Net Profit: -48.36%'
+'Risk: 51.46%
+Total Return: 68.42'
+'Net Profit: -31.58%'
+'Risk: 48.95%
+Total Return: 87.09'
+'Net Profit: -12.91%'
+'Risk: 46.8%
+Total Return: 89.55'
+'Net Profit: -10.45%'
+'Risk: 49.14%
+Total Return: 62.56'
+'Net Profit: -37.44%'
+'Risk: 53.06%
+Total Return: 62.34'
+'Net Profit: -37.66%'
+'Risk: 49.39%
+Total Return: 74.04'
+'Net Profit: -25.96%'
+'Risk: 50.2%
+Total Return: 89.66'
+'Net Profit: -10.34%'
+'Risk: 51.09%
+Total Return: 114.45'
+'Net Profit: 14.45%'
+'Risk: 46.22%
+Total Return: 95.37'
+'Net Profit: -4.63%'
+'Risk: 52.14%
+Total Return: 103.22'
+'Net Profit: 3.22%'
+'Risk: 50.72%
+Total Return: 71.8'
+'Net Profit: -28.2%'
+'Risk: 49.52%
+Total Return: 77.6'
+'Net Profit: -22.4%'
+'Risk: 47.81%
+Total Return: 47.58'
+'Net Profit: -52.42%'
+'Risk: 46.03%
+Total Return: 65.1'
+'Net Profit: -34.9%'
+'Risk: 46.14%
+Total Return: 38.4'
+'Net Profit: -61.6%'
+'Risk: 50.76%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 48.15'
+'Net Profit: -51.85%'
+'Risk: 47.32%
+Total Return: 83.11'
+'Net Profit: -16.89%'
+'Risk: 50.3%
+Total Return: 81.94'
+'Net Profit: -18.06%'
+'Risk: 50.71%
+Total Return: 59.65'
+'Net Profit: -40.35%'
+'Risk: 51.57%
+Total Return: 97.21'
+'Net Profit: -2.79%'
+'Risk: 53.88%
+Total Return: 70.49'
+'Net Profit: -29.51%'
+'Risk: 52.86%
+Total Return: 47.62'
+'Net Profit: -52.38%'
+'Risk: 46.83%
+Total Return: 73.22'
+'Net Profit: -26.78%'
+'Risk: 49.64%
+Total Return: 62.39'
+'Net Profit: -37.61%'
+'Risk: 48.76%
+Total Return: 71.77'
+'Net Profit: -28.23%'
+'Risk: 50.72%
+Total Return: 104.93'
+'Net Profit: 4.93%'
+'Risk: 49.66%
+Total Return: 50.37'
+'Net Profit: -49.63%'
+'Risk: 49.18%
+Total Return: 73.48'
+'Net Profit: -26.52%'
+'Risk: 49.84%
+Total Return: 85.79'
+'Net Profit: -14.21%'
+'Risk: 49.48%
+Total Return: 77.13'
+'Net Profit: -22.87%'
+'Risk: 50.86%
+Total Return: 104.16'
+'Net Profit: 4.16%'
+'Risk: 57.42%
+Total Return: 73.91'
+'Net Profit: -26.09%'
+'Risk: 49.59%
+Total Return: 78.03'
+'Net Profit: -21.97%'
+'Risk: 46.39%
+Total Return: 108.25'
+'Net Profit: 8.25%'
+'Risk: 53.31%
+Total Return: 133.93'
+'Net Profit: 33.93%'
+'Risk: 48.14%
+Total Return: 48.95'
+'Net Profit: -51.05%'
+'Risk: 49.56%
+Total Return: 79.1'
+'Net Profit: -20.9%'
+'Risk: 54.38%
+Total Return: 80.09'
+'Net Profit: -19.91%'
+'Risk: 49.87%
+Total Return: 41.02'
+'Net Profit: -58.98%'
+'Risk: 51.33%
+Total Return: 69.89'
+'Net Profit: -30.11%'
+'Risk: 51.9%
+Total Return: 64.35'
+'Net Profit: -35.65%'
+'Risk: 48.1%
+Total Return: 64.43'
+'Net Profit: -35.57%'
+'Risk: 46.32%
+Total Return: 90.62'
+'Net Profit: -9.38%'
+'Risk: 49.23%
+Total Return: 115.04'
+'Net Profit: 15.04%'
+'Risk: 47.11%
+Total Return: 65.24'
+'Net Profit: -34.76%'
+'Risk: 48.96%
+Total Return: 99.89'
+'Net Profit: -0.11%'
+'Risk: 36.3%
+Total Return: 72.21'
+'Net Profit: -27.79%'
+'Risk: 49.5%
+Total Return: 90.94'
+'Net Profit: -9.06%'
+'Risk: 48.43%
+Total Return: 96.78'
+'Net Profit: -3.22%'
+'Risk: 51.92%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 74.59'
+'Net Profit: -25.41%'
+'Risk: 49.64%
+Total Return: 117.01'
+'Net Profit: 17.01%'
+'Risk: 54.86%
+Total Return: 56.72'
+'Net Profit: -43.28%'
+'Risk: 47.65%
+Total Return: 110.65'
+'Net Profit: 10.65%'
+'Risk: 50.83%
+Generation:  2
+Total Return: 77.43'
+'Net Profit: -22.57%'
+'Risk: 50.43%
+Total Return: 63.68'
+'Net Profit: -36.32%'
+'Risk: 49.69%
+Total Return: 63.25'
+'Net Profit: -36.75%'
+'Risk: 41.7%
+Total Return: 59.71'
+'Net Profit: -40.29%'
+'Risk: 51.89%
+Total Return: 58.12'
+'Net Profit: -41.88%'
+'Risk: 49.82%
+Total Return: 87.61'
+'Net Profit: -12.39%'
+'Risk: 42.0%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 123.33'
+'Net Profit: 23.33%'
+'Risk: 49.25%
+Total Return: 60.29'
+'Net Profit: -39.71%'
+'Risk: 49.64%
+Total Return: 41.35'
+'Net Profit: -58.65%'
+'Risk: 49.38%
+Total Return: 47.58'
+'Net Profit: -52.42%'
+'Risk: 46.03%
+Total Return: 104.16'
+'Net Profit: 4.16%'
+'Risk: 57.42%
+Total Return: 99.89'
+'Net Profit: -0.11%'
+'Risk: 36.3%
+Total Return: 73.48'
+'Net Profit: -26.52%'
+'Risk: 49.84%
+Total Return: 106.46'
+'Net Profit: 6.46%'
+'Risk: 48.08%
+Total Return: 107.72'
+'Net Profit: 7.72%'
+'Risk: 48.91%
+Total Return: 83.17'
+'Net Profit: -16.83%'
+'Risk: 50.28%
+Total Return: 73.49'
+'Net Profit: -26.51%'
+'Risk: 50.41%
+Total Return: 75.34'
+'Net Profit: -24.66%'
+'Risk: 46.83%
+Total Return: 26.56'
+'Net Profit: -73.44%'
+'Risk: 49.34%
+Total Return: 104.16'
+'Net Profit: 4.16%'
+'Risk: 57.42%
+Total Return: 98.33'
+'Net Profit: -1.67%'
+'Risk: 53.44%
+Total Return: 19.09'
+'Net Profit: -80.91%'
+'Risk: 52.16%
+Total Return: 37.85'
+'Net Profit: -62.15%'
+'Risk: 50.44%
+Total Return: 104.38'
+'Net Profit: 4.38%'
+'Risk: 49.23%
+Total Return: 115.86'
+'Net Profit: 15.86%'
+'Risk: 51.33%
+Total Return: 41.17'
+'Net Profit: -58.83%'
+'Risk: 48.23%
+Total Return: 74.21'
+'Net Profit: -25.79%'
+'Risk: 49.4%
+Total Return: 103.22'
+'Net Profit: 3.22%'
+'Risk: 50.72%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 120.72'
+'Net Profit: 20.72%'
+'Risk: 50.0%
+Total Return: 75.43'
+'Net Profit: -24.57%'
+'Risk: 51.2%
+Total Return: 63.25'
+'Net Profit: -36.75%'
+'Risk: 47.78%
+Total Return: 110.37'
+'Net Profit: 10.37%'
+'Risk: 48.58%
+Total Return: 41.25'
+'Net Profit: -58.75%'
+'Risk: 44.61%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 34.34'
+'Net Profit: -65.66%'
+'Risk: 49.84%
+Total Return: 96.02'
+'Net Profit: -3.98%'
+'Risk: 58.92%
+Total Return: 94.23'
+'Net Profit: -5.77%'
+'Risk: 57.58%
+Total Return: 34.86'
+'Net Profit: -65.14%'
+'Risk: 47.37%
+Total Return: 93.4'
+'Net Profit: -6.6%'
+'Risk: 51.43%
+Total Return: 78.73'
+'Net Profit: -21.27%'
+'Risk: 49.36%
+Total Return: 87.72'
+'Net Profit: -12.28%'
+'Risk: 52.07%
+Total Return: 51.64'
+'Net Profit: -48.36%'
+'Risk: 51.46%
+Total Return: 61.81'
+'Net Profit: -38.19%'
+'Risk: 51.26%
+Total Return: 99.42'
+'Net Profit: -0.58%'
+'Risk: 52.13%
+Total Return: 62.08'
+'Net Profit: -37.92%'
+'Risk: 49.3%
+Total Return: 90.47'
+'Net Profit: -9.53%'
+'Risk: 47.25%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 90.67'
+'Net Profit: -9.33%'
+'Risk: 0.0%
+Total Return: 81.1'
+'Net Profit: -18.9%'
+'Risk: 49.25%
+Total Return: 104.91'
+'Net Profit: 4.91%'
+'Risk: 47.8%
+Total Return: 129.46'
+'Net Profit: 29.46%'
+'Risk: 49.54%
+Total Return: 100.04'
+'Net Profit: 0.04%'
+'Risk: 50.71%
+Total Return: 108.25'
+'Net Profit: 8.25%'
+'Risk: 53.31%
+Total Return: 104.43'
+'Net Profit: 4.43%'
+'Risk: 50.37%
+Total Return: 87.11'
+'Net Profit: -12.89%'
+'Risk: 50.1%
+Total Return: 80.99'
+'Net Profit: -19.01%'
+'Risk: 51.25%
+Total Return: 89.85'
+'Net Profit: -10.15%'
+'Risk: 52.13%
+Total Return: 91.78'
+'Net Profit: -8.22%'
+'Risk: 57.61%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 103.53'
+'Net Profit: 3.53%'
+'Risk: 49.69%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 124.32'
+'Net Profit: 24.32%'
+'Risk: 48.42%
+Total Return: 75.05'
+'Net Profit: -24.95%'
+'Risk: 48.42%
+Total Return: 94.41'
+'Net Profit: -5.59%'
+'Risk: 58.64%
+Total Return: 52.48'
+'Net Profit: -47.52%'
+'Risk: 45.19%
+Total Return: 116.92'
+'Net Profit: 16.92%'
+'Risk: 51.53%
+Total Return: 48.28'
+'Net Profit: -51.72%'
+'Risk: 49.31%
+Total Return: 86.47'
+'Net Profit: -13.53%'
+'Risk: 50.36%
+Total Return: 67.38'
+'Net Profit: -32.62%'
+'Risk: 49.54%
+Total Return: 70.51'
+'Net Profit: -29.49%'
+'Risk: 51.47%
+Total Return: 98.63'
+'Net Profit: -1.37%'
+'Risk: 49.18%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 93.44'
+'Net Profit: -6.56%'
+'Risk: 51.27%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 54.08'
+'Net Profit: -45.92%'
+'Risk: 50.78%
+Total Return: 113.15'
+'Net Profit: 13.15%'
+'Risk: 45.97%
+Total Return: 60.19'
+'Net Profit: -39.81%'
+'Risk: 52.56%
+Total Return: 72.21'
+'Net Profit: -27.79%'
+'Risk: 49.5%
+Total Return: 76.21'
+'Net Profit: -23.79%'
+'Risk: 49.36%
+Total Return: 60.09'
+'Net Profit: -39.91%'
+'Risk: 50.35%
+Total Return: 93.18'
+'Net Profit: -6.82%'
+'Risk: 53.27%
+Total Return: 110.65'
+'Net Profit: 10.65%'
+'Risk: 50.83%
+Total Return: 93.33'
+'Net Profit: -6.67%'
+'Risk: 49.05%
+Total Return: 64.89'
+'Net Profit: -35.11%'
+'Risk: 49.18%
+Total Return: 117.27'
+'Net Profit: 17.27%'
+'Risk: 48.36%
+Total Return: 33.54'
+'Net Profit: -66.46%'
+'Risk: 49.78%
+Total Return: 55.42'
+'Net Profit: -44.58%'
+'Risk: 50.7%
+Total Return: 85.98'
+'Net Profit: -14.02%'
+'Risk: 49.02%
+Total Return: 104.93'
+'Net Profit: 4.93%'
+'Risk: 49.66%
+Total Return: 32.83'
+'Net Profit: -67.17%'
+'Risk: 50.24%
+Total Return: 128.39'
+'Net Profit: 28.39%'
+'Risk: 49.05%
+Total Return: 61.84'
+'Net Profit: -38.16%'
+'Risk: 58.59%
+Total Return: 117.01'
+'Net Profit: 17.01%'
+'Risk: 54.86%
+Total Return: 90.95'
+'Net Profit: -9.05%'
+'Risk: 53.55%
+Total Return: 111.31'
+'Net Profit: 11.31%'
+'Risk: 49.84%
+Total Return: 74.88'
+'Net Profit: -25.12%'
+'Risk: 49.58%
+Total Return: 79.87'
+'Net Profit: -20.13%'
+'Risk: 47.19%
+Total Return: 81.96'
+'Net Profit: -18.04%'
+'Risk: 50.97%
+Generation:  3
+Total Return: 92.82'
+'Net Profit: -7.18%'
+'Risk: 47.94%
+Total Return: 92.66'
+'Net Profit: -7.34%'
+'Risk: 49.93%
+Total Return: 107.44'
+'Net Profit: 7.44%'
+'Risk: 50.65%
+Total Return: 26.98'
+'Net Profit: -73.02%'
+'Risk: 50.96%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 113.74'
+'Net Profit: 13.74%'
+'Risk: 48.95%
+Total Return: 80.5'
+'Net Profit: -19.5%'
+'Risk: 49.91%
+Total Return: 113.14'
+'Net Profit: 13.14%'
+'Risk: 48.4%
+Total Return: 110.48'
+'Net Profit: 10.48%'
+'Risk: 47.49%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 68.78'
+'Net Profit: -31.22%'
+'Risk: 46.97%
+Total Return: 88.61'
+'Net Profit: -11.39%'
+'Risk: 51.21%
+Total Return: 101.22'
+'Net Profit: 1.22%'
+'Risk: 5.13%
+Total Return: 115.21'
+'Net Profit: 15.21%'
+'Risk: 55.12%
+Total Return: 56.41'
+'Net Profit: -43.59%'
+'Risk: 48.69%
+Total Return: 58.02'
+'Net Profit: -41.98%'
+'Risk: 47.24%
+Total Return: 154.17'
+'Net Profit: 54.17%'
+'Risk: 47.85%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 104.91'
+'Net Profit: 4.91%'
+'Risk: 47.8%
+Total Return: 84.0'
+'Net Profit: -16.0%'
+'Risk: 50.27%
+Total Return: 93.33'
+'Net Profit: -6.67%'
+'Risk: 49.05%
+Total Return: 115.86'
+'Net Profit: 15.86%'
+'Risk: 51.33%
+Total Return: 116.92'
+'Net Profit: 16.92%'
+'Risk: 51.53%
+Total Return: 103.22'
+'Net Profit: 3.22%'
+'Risk: 50.72%
+Total Return: 66.48'
+'Net Profit: -33.52%'
+'Risk: 48.36%
+Total Return: 65.16'
+'Net Profit: -34.84%'
+'Risk: 49.69%
+Total Return: 55.33'
+'Net Profit: -44.67%'
+'Risk: 49.62%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 78.73'
+'Net Profit: -21.27%'
+'Risk: 49.36%
+Total Return: 110.65'
+'Net Profit: 10.65%'
+'Risk: 50.83%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 66.67'
+'Net Profit: -33.33%'
+'Risk: 53.87%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 78.71'
+'Net Profit: -21.29%'
+'Risk: 50.18%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 60.77'
+'Net Profit: -39.23%'
+'Risk: 50.47%
+Total Return: 99.02'
+'Net Profit: -0.98%'
+'Risk: 48.37%
+Total Return: 121.09'
+'Net Profit: 21.09%'
+'Risk: 46.91%
+Total Return: 82.49'
+'Net Profit: -17.51%'
+'Risk: 50.3%
+Total Return: 102.54'
+'Net Profit: 2.54%'
+'Risk: 54.04%
+Total Return: 28.7'
+'Net Profit: -71.3%'
+'Risk: 50.85%
+Total Return: 116.51'
+'Net Profit: 16.51%'
+'Risk: 51.1%
+Total Return: 56.38'
+'Net Profit: -43.62%'
+'Risk: 51.54%
+Total Return: 96.02'
+'Net Profit: -3.98%'
+'Risk: 58.92%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 61.87'
+'Net Profit: -38.13%'
+'Risk: 50.72%
+Total Return: 56.09'
+'Net Profit: -43.91%'
+'Risk: 51.4%
+Total Return: 98.63'
+'Net Profit: -1.37%'
+'Risk: 49.18%
+Total Return: 116.92'
+'Net Profit: 16.92%'
+'Risk: 51.53%
+Total Return: 120.57'
+'Net Profit: 20.57%'
+'Risk: 46.75%
+Total Return: 122.08'
+'Net Profit: 22.08%'
+'Risk: 53.39%
+Total Return: 99.55'
+'Net Profit: -0.45%'
+'Risk: 0.0%
+Total Return: 76.5'
+'Net Profit: -23.5%'
+'Risk: 47.36%
+Total Return: 93.33'
+'Net Profit: -6.67%'
+'Risk: 49.05%
+Total Return: 104.16'
+'Net Profit: 4.16%'
+'Risk: 57.42%
+Total Return: 75.43'
+'Net Profit: -24.57%'
+'Risk: 51.2%
+Total Return: 124.32'
+'Net Profit: 24.32%'
+'Risk: 48.42%
+Total Return: 106.08'
+'Net Profit: 6.08%'
+'Risk: 51.51%
+Total Return: 84.19'
+'Net Profit: -15.81%'
+'Risk: 51.12%
+Total Return: 102.09'
+'Net Profit: 2.09%'
+'Risk: 0.0%
+Total Return: 66.59'
+'Net Profit: -33.41%'
+'Risk: 48.45%
+Total Return: 71.15'
+'Net Profit: -28.85%'
+'Risk: 51.46%
+Total Return: 86.03'
+'Net Profit: -13.97%'
+'Risk: 48.53%
+Total Return: 131.07'
+'Net Profit: 31.07%'
+'Risk: 50.61%
+Total Return: 112.71'
+'Net Profit: 12.71%'
+'Risk: 49.83%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 118.92'
+'Net Profit: 18.92%'
+'Risk: 51.69%
+Total Return: 69.94'
+'Net Profit: -30.06%'
+'Risk: 50.53%
+Total Return: 84.5'
+'Net Profit: -15.5%'
+'Risk: 51.04%
+Total Return: 83.04'
+'Net Profit: -16.96%'
+'Risk: 49.85%
+Total Return: 25.01'
+'Net Profit: -74.99%'
+'Risk: 49.59%
+Total Return: 95.06'
+'Net Profit: -4.94%'
+'Risk: 52.23%
+Total Return: 108.41'
+'Net Profit: 8.41%'
+'Risk: 51.91%
+Total Return: 45.02'
+'Net Profit: -54.98%'
+'Risk: 49.32%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Total Return: 56.62'
+'Net Profit: -43.38%'
+'Risk: 48.18%
+Total Return: 103.82'
+'Net Profit: 3.82%'
+'Risk: 48.7%
+Total Return: 90.35'
+'Net Profit: -9.65%'
+'Risk: 50.62%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 71.15'
+'Net Profit: -28.85%'
+'Risk: 48.59%
+Total Return: 63.39'
+'Net Profit: -36.61%'
+'Risk: 50.15%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 76.5'
+'Net Profit: -23.5%'
+'Risk: 51.3%
+Total Return: 93.44'
+'Net Profit: -6.56%'
+'Risk: 51.27%
+Total Return: 73.49'
+'Net Profit: -26.51%'
+'Risk: 50.41%
+Total Return: 101.75'
+'Net Profit: 1.75%'
+'Risk: 55.11%
+Total Return: 96.51'
+'Net Profit: -3.49%'
+'Risk: 49.79%
+Total Return: 65.0'
+'Net Profit: -35.0%'
+'Risk: 52.62%
+Total Return: 92.53'
+'Net Profit: -7.47%'
+'Risk: 46.15%
+Total Return: 121.07'
+'Net Profit: 21.07%'
+'Risk: 49.25%
+Total Return: 112.18'
+'Net Profit: 12.18%'
+'Risk: 52.53%
+Total Return: 91.3'
+'Net Profit: -8.7%'
+'Risk: 62.33%
+Total Return: 99.4'
+'Net Profit: -0.6%'
+'Risk: 48.62%
+Total Return: 66.69'
+'Net Profit: -33.31%'
+'Risk: 49.83%
+Total Return: 106.87'
+'Net Profit: 6.87%'
+'Risk: 57.93%
+Total Return: 93.77'
+'Net Profit: -6.23%'
+'Risk: 52.96%
+Total Return: 95.2'
+'Net Profit: -4.8%'
+'Risk: 50.49%
+Total Return: 33.54'
+'Net Profit: -66.46%'
+'Risk: 49.78%
+Total Return: 51.64'
+'Net Profit: -48.36%'
+'Risk: 51.46%
+Generation:  4
+Total Return: 106.87'
+'Net Profit: 6.87%'
+'Risk: 57.93%
+Total Return: 104.91'
+'Net Profit: 4.91%'
+'Risk: 47.8%
+Total Return: 94.76'
+'Net Profit: -5.24%'
+'Risk: 44.83%
+Total Return: 101.8'
+'Net Profit: 1.8%'
+'Risk: 47.28%
+Total Return: 91.15'
+'Net Profit: -8.85%'
+'Risk: 51.15%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 105.51'
+'Net Profit: 5.51%'
+'Risk: 0.0%
+Total Return: 84.64'
+'Net Profit: -15.36%'
+'Risk: 46.37%
+Total Return: 78.73'
+'Net Profit: -21.27%'
+'Risk: 49.36%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Total Return: 66.27'
+'Net Profit: -33.73%'
+'Risk: 49.17%
+Total Return: 106.18'
+'Net Profit: 6.18%'
+'Risk: 47.02%
+Total Return: 100.88'
+'Net Profit: 0.88%'
+'Risk: 49.09%
+Total Return: 94.54'
+'Net Profit: -5.46%'
+'Risk: 38.5%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 104.16'
+'Net Profit: 4.16%'
+'Risk: 57.42%
+Total Return: 97.71'
+'Net Profit: -2.29%'
+'Risk: 48.63%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 108.41'
+'Net Profit: 8.41%'
+'Risk: 51.91%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 130.67'
+'Net Profit: 30.67%'
+'Risk: 48.25%
+Total Return: 92.99'
+'Net Profit: -7.01%'
+'Risk: 0.0%
+Total Return: 107.46'
+'Net Profit: 7.46%'
+'Risk: 46.33%
+Total Return: 66.63'
+'Net Profit: -33.37%'
+'Risk: 55.4%
+Total Return: 95.72'
+'Net Profit: -4.28%'
+'Risk: 51.52%
+Total Return: 101.63'
+'Net Profit: 1.63%'
+'Risk: 51.4%
+Total Return: 87.42'
+'Net Profit: -12.58%'
+'Risk: 44.25%
+Total Return: 76.12'
+'Net Profit: -23.88%'
+'Risk: 55.27%
+Total Return: 59.72'
+'Net Profit: -40.28%'
+'Risk: 50.33%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 108.25'
+'Net Profit: 8.25%'
+'Risk: 50.86%
+Total Return: 100.34'
+'Net Profit: 0.34%'
+'Risk: 52.42%
+Total Return: 43.52'
+'Net Profit: -56.48%'
+'Risk: 48.43%
+Total Return: 56.62'
+'Net Profit: -43.38%'
+'Risk: 48.18%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 138.42'
+'Net Profit: 38.42%'
+'Risk: 49.22%
+Total Return: 87.0'
+'Net Profit: -13.0%'
+'Risk: 45.58%
+Total Return: 83.04'
+'Net Profit: -16.96%'
+'Risk: 49.85%
+Total Return: 112.18'
+'Net Profit: 12.18%'
+'Risk: 52.53%
+Total Return: 28.1'
+'Net Profit: -71.9%'
+'Risk: 50.71%
+Total Return: 129.0'
+'Net Profit: 29.0%'
+'Risk: 51.35%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 100.04'
+'Net Profit: 0.04%'
+'Risk: 49.97%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 103.1'
+'Net Profit: 3.1%'
+'Risk: 51.42%
+Total Return: 68.93'
+'Net Profit: -31.07%'
+'Risk: 50.26%
+Total Return: 56.34'
+'Net Profit: -43.66%'
+'Risk: 49.23%
+Total Return: 52.57'
+'Net Profit: -47.43%'
+'Risk: 49.63%
+Total Return: 74.07'
+'Net Profit: -25.93%'
+'Risk: 49.05%
+Total Return: 93.55'
+'Net Profit: -6.45%'
+'Risk: 52.13%
+Total Return: 116.92'
+'Net Profit: 16.92%'
+'Risk: 51.53%
+Total Return: 84.5'
+'Net Profit: -15.5%'
+'Risk: 51.04%
+Total Return: 185.77'
+'Net Profit: 85.77%'
+'Risk: 51.78%
+Total Return: 96.39'
+'Net Profit: -3.61%'
+'Risk: 51.15%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 110.91'
+'Net Profit: 10.91%'
+'Risk: 41.28%
+Total Return: 71.15'
+'Net Profit: -28.85%'
+'Risk: 48.59%
+Total Return: 101.75'
+'Net Profit: 1.75%'
+'Risk: 55.11%
+Total Return: 65.42'
+'Net Profit: -34.58%'
+'Risk: 47.03%
+Total Return: 84.79'
+'Net Profit: -15.21%'
+'Risk: 50.68%
+Total Return: 90.29'
+'Net Profit: -9.71%'
+'Risk: 49.84%
+Total Return: 99.41'
+'Net Profit: -0.59%'
+'Risk: 47.67%
+Total Return: 56.41'
+'Net Profit: -43.59%'
+'Risk: 49.76%
+Total Return: 45.25'
+'Net Profit: -54.75%'
+'Risk: 50.61%
+Total Return: 84.65'
+'Net Profit: -15.35%'
+'Risk: 53.72%
+Total Return: 81.92'
+'Net Profit: -18.08%'
+'Risk: 50.28%
+Total Return: 97.9'
+'Net Profit: -2.1%'
+'Risk: 48.34%
+Total Return: 119.42'
+'Net Profit: 19.42%'
+'Risk: 51.45%
+Total Return: 66.67'
+'Net Profit: -33.33%'
+'Risk: 53.87%
+Total Return: 51.64'
+'Net Profit: -48.36%'
+'Risk: 51.46%
+Total Return: 61.14'
+'Net Profit: -38.86%'
+'Risk: 48.38%
+Total Return: 127.2'
+'Net Profit: 27.2%'
+'Risk: 49.94%
+Total Return: 117.5'
+'Net Profit: 17.5%'
+'Risk: 45.53%
+Total Return: 84.36'
+'Net Profit: -15.64%'
+'Risk: 47.1%
+Total Return: 72.71'
+'Net Profit: -27.29%'
+'Risk: 47.56%
+Total Return: 65.93'
+'Net Profit: -34.07%'
+'Risk: 50.63%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 47.49'
+'Net Profit: -52.51%'
+'Risk: 49.63%
+Total Return: 95.81'
+'Net Profit: -4.19%'
+'Risk: 50.13%
+Total Return: 49.78'
+'Net Profit: -50.22%'
+'Risk: 50.8%
+Total Return: 96.9'
+'Net Profit: -3.1%'
+'Risk: 47.96%
+Total Return: 33.98'
+'Net Profit: -66.02%'
+'Risk: 50.48%
+Total Return: 95.09'
+'Net Profit: -4.91%'
+'Risk: 49.85%
+Total Return: 129.82'
+'Net Profit: 29.82%'
+'Risk: 48.58%
+Total Return: 118.92'
+'Net Profit: 18.92%'
+'Risk: 51.69%
+Total Return: 78.9'
+'Net Profit: -21.1%'
+'Risk: 50.76%
+Total Return: 46.62'
+'Net Profit: -53.38%'
+'Risk: 51.43%
+Total Return: 96.25'
+'Net Profit: -3.75%'
+'Risk: 0.0%
+Total Return: 73.89'
+'Net Profit: -26.11%'
+'Risk: 50.66%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 102.26'
+'Net Profit: 2.26%'
+'Risk: 49.51%
+Total Return: 67.49'
+'Net Profit: -32.51%'
+'Risk: 50.04%
+Total Return: 95.74'
+'Net Profit: -4.26%'
+'Risk: 48.27%
+Total Return: 74.18'
+'Net Profit: -25.82%'
+'Risk: 55.67%
+Total Return: 110.65'
+'Net Profit: 10.65%'
+'Risk: 50.83%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Generation:  5
+Total Return: 101.22'
+'Net Profit: 1.22%'
+'Risk: 51.61%
+Total Return: 69.85'
+'Net Profit: -30.15%'
+'Risk: 46.15%
+Total Return: 120.01'
+'Net Profit: 20.01%'
+'Risk: 50.79%
+Total Return: 102.48'
+'Net Profit: 2.48%'
+'Risk: 51.55%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 85.58'
+'Net Profit: -14.42%'
+'Risk: 48.49%
+Total Return: 108.05'
+'Net Profit: 8.05%'
+'Risk: 0.0%
+Total Return: 73.89'
+'Net Profit: -26.11%'
+'Risk: 50.09%
+Total Return: 70.7'
+'Net Profit: -29.3%'
+'Risk: 50.26%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 84.65'
+'Net Profit: -15.35%'
+'Risk: 53.72%
+Total Return: 104.16'
+'Net Profit: 4.16%'
+'Risk: 57.42%
+Total Return: 45.23'
+'Net Profit: -54.77%'
+'Risk: 52.7%
+Total Return: 110.66'
+'Net Profit: 10.66%'
+'Risk: 51.14%
+Total Return: 101.63'
+'Net Profit: 1.63%'
+'Risk: 55.47%
+Total Return: 88.17'
+'Net Profit: -11.83%'
+'Risk: 51.3%
+Total Return: 108.25'
+'Net Profit: 8.25%'
+'Risk: 50.86%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 113.97'
+'Net Profit: 13.97%'
+'Risk: 49.62%
+Total Return: 81.47'
+'Net Profit: -18.53%'
+'Risk: 48.12%
+Total Return: 98.25'
+'Net Profit: -1.75%'
+'Risk: 57.28%
+Total Return: 83.95'
+'Net Profit: -16.05%'
+'Risk: 45.09%
+Total Return: 74.85'
+'Net Profit: -25.15%'
+'Risk: 48.81%
+Total Return: 76.6'
+'Net Profit: -23.4%'
+'Risk: 61.38%
+Total Return: 23.29'
+'Net Profit: -76.71%'
+'Risk: 52.0%
+Total Return: 107.43'
+'Net Profit: 7.43%'
+'Risk: 0.0%
+Total Return: 115.99'
+'Net Profit: 15.99%'
+'Risk: 49.5%
+Total Return: 96.48'
+'Net Profit: -3.52%'
+'Risk: 0.0%
+Total Return: 92.33'
+'Net Profit: -7.67%'
+'Risk: 53.27%
+Total Return: 109.78'
+'Net Profit: 9.78%'
+'Risk: 46.17%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 98.97'
+'Net Profit: -1.03%'
+'Risk: 48.89%
+Total Return: 74.07'
+'Net Profit: -25.93%'
+'Risk: 49.05%
+Total Return: 106.87'
+'Net Profit: 6.87%'
+'Risk: 57.93%
+Total Return: 96.82'
+'Net Profit: -3.18%'
+'Risk: 51.09%
+Total Return: 92.26'
+'Net Profit: -7.74%'
+'Risk: 46.12%
+Total Return: 63.12'
+'Net Profit: -36.88%'
+'Risk: 50.49%
+Total Return: 69.15'
+'Net Profit: -30.85%'
+'Risk: 50.76%
+Total Return: 91.15'
+'Net Profit: -8.85%'
+'Risk: 51.15%
+Total Return: 129.82'
+'Net Profit: 29.82%'
+'Risk: 48.58%
+Total Return: 85.52'
+'Net Profit: -14.48%'
+'Risk: 58.41%
+Total Return: 97.19'
+'Net Profit: -2.81%'
+'Risk: 56.84%
+Total Return: 76.12'
+'Net Profit: -23.88%'
+'Risk: 55.27%
+Total Return: 95.09'
+'Net Profit: -4.91%'
+'Risk: 49.85%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 63.15'
+'Net Profit: -36.85%'
+'Risk: 50.17%
+Total Return: 115.9'
+'Net Profit: 15.9%'
+'Risk: 56.32%
+Total Return: 104.92'
+'Net Profit: 4.92%'
+'Risk: 49.98%
+Total Return: 37.06'
+'Net Profit: -62.94%'
+'Risk: 51.61%
+Total Return: 45.06'
+'Net Profit: -54.94%'
+'Risk: 48.96%
+Total Return: 66.27'
+'Net Profit: -33.73%'
+'Risk: 49.88%
+Total Return: 64.82'
+'Net Profit: -35.18%'
+'Risk: 49.96%
+Total Return: 108.77'
+'Net Profit: 8.77%'
+'Risk: 49.91%
+Total Return: 99.55'
+'Net Profit: -0.45%'
+'Risk: 0.0%
+Total Return: 85.21'
+'Net Profit: -14.79%'
+'Risk: 48.67%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 84.65'
+'Net Profit: -15.35%'
+'Risk: 53.72%
+Total Return: 172.43'
+'Net Profit: 72.43%'
+'Risk: 52.36%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Total Return: 59.28'
+'Net Profit: -40.72%'
+'Risk: 50.84%
+Total Return: 52.69'
+'Net Profit: -47.31%'
+'Risk: 50.85%
+Total Return: 84.98'
+'Net Profit: -15.02%'
+'Risk: 50.4%
+Total Return: 120.9'
+'Net Profit: 20.9%'
+'Risk: 47.98%
+Total Return: 114.25'
+'Net Profit: 14.25%'
+'Risk: 49.09%
+Total Return: 98.31'
+'Net Profit: -1.69%'
+'Risk: 50.4%
+Total Return: 97.71'
+'Net Profit: -2.29%'
+'Risk: 48.63%
+Total Return: 105.51'
+'Net Profit: 5.51%'
+'Risk: 0.0%
+Total Return: 127.2'
+'Net Profit: 27.2%'
+'Risk: 49.94%
+Total Return: 99.41'
+'Net Profit: -0.59%'
+'Risk: 47.67%
+Total Return: 96.95'
+'Net Profit: -3.05%'
+'Risk: 57.42%
+Total Return: 107.52'
+'Net Profit: 7.52%'
+'Risk: 50.65%
+Total Return: 112.18'
+'Net Profit: 12.18%'
+'Risk: 52.53%
+Total Return: 83.04'
+'Net Profit: -16.96%'
+'Risk: 49.85%
+Total Return: 112.52'
+'Net Profit: 12.52%'
+'Risk: 49.09%
+Total Return: 112.57'
+'Net Profit: 12.57%'
+'Risk: 51.22%
+Total Return: 96.39'
+'Net Profit: -3.61%'
+'Risk: 51.15%
+Total Return: 110.91'
+'Net Profit: 10.91%'
+'Risk: 41.28%
+Total Return: 118.91'
+'Net Profit: 18.91%'
+'Risk: 49.55%
+Total Return: 48.52'
+'Net Profit: -51.48%'
+'Risk: 51.25%
+Total Return: 173.39'
+'Net Profit: 73.39%'
+'Risk: 48.06%
+Total Return: 112.52'
+'Net Profit: 12.52%'
+'Risk: 53.48%
+Total Return: 122.14'
+'Net Profit: 22.14%'
+'Risk: 50.53%
+Total Return: 91.3'
+'Net Profit: -8.7%'
+'Risk: 62.33%
+Total Return: 90.66'
+'Net Profit: -9.34%'
+'Risk: 51.93%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 110.3'
+'Net Profit: 10.3%'
+'Risk: 48.53%
+Total Return: 89.81'
+'Net Profit: -10.19%'
+'Risk: 50.56%
+Total Return: 99.19'
+'Net Profit: -0.81%'
+'Risk: 49.96%
+Total Return: 129.82'
+'Net Profit: 29.82%'
+'Risk: 48.58%
+Total Return: 96.25'
+'Net Profit: -3.75%'
+'Risk: 0.0%
+Total Return: 107.46'
+'Net Profit: 7.46%'
+'Risk: 46.33%
+Total Return: 96.9'
+'Net Profit: -3.1%'
+'Risk: 47.96%
+Total Return: 96.9'
+'Net Profit: -3.1%'
+'Risk: 47.96%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Total Return: 76.2'
+'Net Profit: -23.8%'
+'Risk: 51.48%
+Total Return: 65.53'
+'Net Profit: -34.47%'
+'Risk: 49.55%
+Generation:  6
+Total Return: 52.82'
+'Net Profit: -47.18%'
+'Risk: 49.92%
+Total Return: 109.67'
+'Net Profit: 9.67%'
+'Risk: 52.1%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 74.07'
+'Net Profit: -25.93%'
+'Risk: 49.05%
+Total Return: 87.53'
+'Net Profit: -12.47%'
+'Risk: 55.63%
+Total Return: 126.06'
+'Net Profit: 26.06%'
+'Risk: 55.86%
+Total Return: 119.26'
+'Net Profit: 19.26%'
+'Risk: 47.12%
+Total Return: 124.87'
+'Net Profit: 24.87%'
+'Risk: 49.05%
+Total Return: 114.14'
+'Net Profit: 14.14%'
+'Risk: 51.58%
+Total Return: 97.65'
+'Net Profit: -2.35%'
+'Risk: 51.51%
+Total Return: 50.42'
+'Net Profit: -49.58%'
+'Risk: 49.29%
+Total Return: 96.31'
+'Net Profit: -3.69%'
+'Risk: 56.84%
+Total Return: 55.73'
+'Net Profit: -44.27%'
+'Risk: 45.64%
+Total Return: 103.02'
+'Net Profit: 3.02%'
+'Risk: 50.22%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 103.35'
+'Net Profit: 3.35%'
+'Risk: 46.02%
+Total Return: 90.75'
+'Net Profit: -9.25%'
+'Risk: 60.4%
+Total Return: 78.49'
+'Net Profit: -21.51%'
+'Risk: 55.96%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Total Return: 99.55'
+'Net Profit: -0.45%'
+'Risk: 0.0%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 48.52'
+'Net Profit: -51.48%'
+'Risk: 51.25%
+Total Return: 120.9'
+'Net Profit: 20.9%'
+'Risk: 47.98%
+Total Return: 69.85'
+'Net Profit: -30.15%'
+'Risk: 46.15%
+Total Return: 68.2'
+'Net Profit: -31.8%'
+'Risk: 49.24%
+Total Return: 96.08'
+'Net Profit: -3.92%'
+'Risk: 0.0%
+Total Return: 138.44'
+'Net Profit: 38.44%'
+'Risk: 49.0%
+Total Return: 64.19'
+'Net Profit: -35.81%'
+'Risk: 51.92%
+Total Return: 120.9'
+'Net Profit: 20.9%'
+'Risk: 47.98%
+Total Return: 113.97'
+'Net Profit: 13.97%'
+'Risk: 49.62%
+Total Return: 91.3'
+'Net Profit: -8.7%'
+'Risk: 62.33%
+Total Return: 85.89'
+'Net Profit: -14.11%'
+'Risk: 48.94%
+Total Return: 108.25'
+'Net Profit: 8.25%'
+'Risk: 50.86%
+Total Return: 122.34'
+'Net Profit: 22.34%'
+'Risk: 60.22%
+Total Return: 155.64'
+'Net Profit: 55.64%'
+'Risk: 53.69%
+Total Return: 87.02'
+'Net Profit: -12.98%'
+'Risk: 55.74%
+Total Return: 61.33'
+'Net Profit: -38.67%'
+'Risk: 49.75%
+Total Return: 60.77'
+'Net Profit: -39.23%'
+'Risk: 50.73%
+Total Return: 45.23'
+'Net Profit: -54.77%'
+'Risk: 52.7%
+Total Return: 88.17'
+'Net Profit: -11.83%'
+'Risk: 51.3%
+Total Return: 110.91'
+'Net Profit: 10.91%'
+'Risk: 41.28%
+Total Return: 110.3'
+'Net Profit: 10.3%'
+'Risk: 48.53%
+Total Return: 79.16'
+'Net Profit: -20.84%'
+'Risk: 53.82%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 97.85'
+'Net Profit: -2.15%'
+'Risk: 53.44%
+Total Return: 90.43'
+'Net Profit: -9.57%'
+'Risk: 50.52%
+Total Return: 87.37'
+'Net Profit: -12.63%'
+'Risk: 55.78%
+Total Return: 114.48'
+'Net Profit: 14.48%'
+'Risk: 56.18%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 117.22'
+'Net Profit: 17.22%'
+'Risk: 49.52%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 91.3'
+'Net Profit: -8.7%'
+'Risk: 62.33%
+Total Return: 127.2'
+'Net Profit: 27.2%'
+'Risk: 49.94%
+Total Return: 98.31'
+'Net Profit: -1.69%'
+'Risk: 57.46%
+Total Return: 94.83'
+'Net Profit: -5.17%'
+'Risk: 49.17%
+Total Return: 108.77'
+'Net Profit: 8.77%'
+'Risk: 49.91%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 89.97'
+'Net Profit: -10.03%'
+'Risk: 53.52%
+Total Return: 105.19'
+'Net Profit: 5.19%'
+'Risk: 49.63%
+Total Return: 83.75'
+'Net Profit: -16.25%'
+'Risk: 51.67%
+Total Return: 102.54'
+'Net Profit: 2.54%'
+'Risk: 54.04%
+Total Return: 89.27'
+'Net Profit: -10.73%'
+'Risk: 50.34%
+Total Return: 47.9'
+'Net Profit: -52.1%'
+'Risk: 52.21%
+Total Return: 63.19'
+'Net Profit: -36.81%'
+'Risk: 51.42%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 78.49'
+'Net Profit: -21.51%'
+'Risk: 49.99%
+Total Return: 88.06'
+'Net Profit: -11.94%'
+'Risk: 55.7%
+Total Return: 86.16'
+'Net Profit: -13.84%'
+'Risk: 53.16%
+Total Return: 63.47'
+'Net Profit: -36.53%'
+'Risk: 51.48%
+Total Return: 49.54'
+'Net Profit: -50.46%'
+'Risk: 49.24%
+Total Return: 102.04'
+'Net Profit: 2.04%'
+'Risk: 49.95%
+Total Return: 99.9'
+'Net Profit: -0.1%'
+'Risk: 50.85%
+Total Return: 92.1'
+'Net Profit: -7.9%'
+'Risk: 53.2%
+Total Return: 81.95'
+'Net Profit: -18.05%'
+'Risk: 50.98%
+Total Return: 94.11'
+'Net Profit: -5.89%'
+'Risk: 54.91%
+Total Return: 99.23'
+'Net Profit: -0.77%'
+'Risk: 52.89%
+Total Return: 55.59'
+'Net Profit: -44.41%'
+'Risk: 49.56%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 63.29'
+'Net Profit: -36.71%'
+'Risk: 48.5%
+Total Return: 79.23'
+'Net Profit: -20.77%'
+'Risk: 51.12%
+Total Return: 90.18'
+'Net Profit: -9.82%'
+'Risk: 51.43%
+Total Return: 84.56'
+'Net Profit: -15.44%'
+'Risk: 50.57%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 104.16'
+'Net Profit: 4.16%'
+'Risk: 57.42%
+Total Return: 101.63'
+'Net Profit: 1.63%'
+'Risk: 55.47%
+Total Return: 102.72'
+'Net Profit: 2.72%'
+'Risk: 53.99%
+Total Return: 93.72'
+'Net Profit: -6.28%'
+'Risk: 52.54%
+Total Return: 100.43'
+'Net Profit: 0.43%'
+'Risk: 53.47%
+Total Return: 92.89'
+'Net Profit: -7.11%'
+'Risk: 50.69%
+Total Return: 173.39'
+'Net Profit: 73.39%'
+'Risk: 48.06%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Total Return: 102.48'
+'Net Profit: 2.48%'
+'Risk: 51.55%
+Total Return: 112.52'
+'Net Profit: 12.52%'
+'Risk: 53.48%
+Total Return: 105.41'
+'Net Profit: 5.41%'
+'Risk: 55.97%
+Total Return: 112.52'
+'Net Profit: 12.52%'
+'Risk: 49.09%
+Total Return: 74.32'
+'Net Profit: -25.68%'
+'Risk: 50.24%
+Total Return: 114.25'
+'Net Profit: 14.25%'
+'Risk: 49.09%
+Total Return: 89.51'
+'Net Profit: -10.49%'
+'Risk: 58.64%
+Total Return: 96.31'
+'Net Profit: -3.69%'
+'Risk: 56.84%
+Generation:  7
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 124.87'
+'Net Profit: 24.87%'
+'Risk: 49.05%
+Total Return: 58.17'
+'Net Profit: -41.83%'
+'Risk: 50.27%
+Total Return: 79.19'
+'Net Profit: -20.81%'
+'Risk: 51.55%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 42.84'
+'Net Profit: -57.16%'
+'Risk: 48.75%
+Total Return: 97.33'
+'Net Profit: -2.67%'
+'Risk: 0.0%
+Total Return: 115.04'
+'Net Profit: 15.04%'
+'Risk: 41.69%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 97.06'
+'Net Profit: -2.94%'
+'Risk: 49.85%
+Total Return: 59.79'
+'Net Profit: -40.21%'
+'Risk: 47.74%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 79.56'
+'Net Profit: -20.44%'
+'Risk: 50.95%
+Total Return: 80.79'
+'Net Profit: -19.21%'
+'Risk: 49.26%
+Total Return: 117.22'
+'Net Profit: 17.22%'
+'Risk: 49.52%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 78.49'
+'Net Profit: -21.51%'
+'Risk: 49.99%
+Total Return: 96.76'
+'Net Profit: -3.24%'
+'Risk: 53.8%
+Total Return: 93.86'
+'Net Profit: -6.14%'
+'Risk: 58.53%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 71.71'
+'Net Profit: -28.29%'
+'Risk: 47.28%
+Total Return: 109.67'
+'Net Profit: 9.67%'
+'Risk: 52.1%
+Total Return: 87.02'
+'Net Profit: -12.98%'
+'Risk: 55.74%
+Total Return: 83.51'
+'Net Profit: -16.49%'
+'Risk: 50.56%
+Total Return: 96.31'
+'Net Profit: -3.69%'
+'Risk: 56.84%
+Total Return: 145.97'
+'Net Profit: 45.97%'
+'Risk: 53.03%
+Total Return: 104.86'
+'Net Profit: 4.86%'
+'Risk: 46.03%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 48.52'
+'Net Profit: -51.48%'
+'Risk: 51.25%
+Total Return: 93.82'
+'Net Profit: -6.18%'
+'Risk: 57.68%
+Total Return: 104.37'
+'Net Profit: 4.37%'
+'Risk: 52.1%
+Total Return: 93.43'
+'Net Profit: -6.57%'
+'Risk: 50.69%
+Total Return: 75.05'
+'Net Profit: -24.95%'
+'Risk: 45.34%
+Total Return: 97.79'
+'Net Profit: -2.21%'
+'Risk: 6.45%
+Total Return: 71.36'
+'Net Profit: -28.64%'
+'Risk: 58.08%
+Total Return: 119.26'
+'Net Profit: 19.26%'
+'Risk: 47.12%
+Total Return: 118.75'
+'Net Profit: 18.75%'
+'Risk: 50.04%
+Total Return: 119.68'
+'Net Profit: 19.68%'
+'Risk: 52.33%
+Total Return: 72.46'
+'Net Profit: -27.54%'
+'Risk: 49.92%
+Total Return: 127.46'
+'Net Profit: 27.46%'
+'Risk: 53.83%
+Total Return: 102.6'
+'Net Profit: 2.6%'
+'Risk: 55.64%
+Total Return: 160.21'
+'Net Profit: 60.21%'
+'Risk: 51.04%
+Total Return: 83.44'
+'Net Profit: -16.56%'
+'Risk: 54.56%
+Total Return: 92.2'
+'Net Profit: -7.8%'
+'Risk: 49.83%
+Total Return: 43.8'
+'Net Profit: -56.2%'
+'Risk: 52.27%
+Total Return: 113.57'
+'Net Profit: 13.57%'
+'Risk: 49.42%
+Total Return: 50.88'
+'Net Profit: -49.12%'
+'Risk: 49.38%
+Total Return: 100.16'
+'Net Profit: 0.16%'
+'Risk: 50.39%
+Total Return: 91.58'
+'Net Profit: -8.42%'
+'Risk: 43.42%
+Total Return: 94.83'
+'Net Profit: -5.17%'
+'Risk: 49.17%
+Total Return: 108.25'
+'Net Profit: 8.25%'
+'Risk: 50.86%
+Total Return: 91.3'
+'Net Profit: -8.7%'
+'Risk: 62.33%
+Total Return: 97.85'
+'Net Profit: -2.15%'
+'Risk: 53.44%
+Total Return: 117.24'
+'Net Profit: 17.24%'
+'Risk: 50.04%
+Total Return: 115.56'
+'Net Profit: 15.56%'
+'Risk: 47.55%
+Total Return: 122.34'
+'Net Profit: 22.34%'
+'Risk: 60.22%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Total Return: 90.66'
+'Net Profit: -9.34%'
+'Risk: 50.7%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 107.43'
+'Net Profit: 7.43%'
+'Risk: 0.0%
+Total Return: 94.79'
+'Net Profit: -5.21%'
+'Risk: 55.69%
+Total Return: 98.47'
+'Net Profit: -1.53%'
+'Risk: 54.28%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 116.05'
+'Net Profit: 16.05%'
+'Risk: 51.29%
+Total Return: 92.61'
+'Net Profit: -7.39%'
+'Risk: 60.18%
+Total Return: 103.02'
+'Net Profit: 3.02%'
+'Risk: 50.22%
+Total Return: 89.59'
+'Net Profit: -10.41%'
+'Risk: 55.93%
+Total Return: 92.59'
+'Net Profit: -7.41%'
+'Risk: 49.53%
+Total Return: 95.68'
+'Net Profit: -4.32%'
+'Risk: 58.88%
+Total Return: 103.96'
+'Net Profit: 3.96%'
+'Risk: 58.58%
+Total Return: 110.79'
+'Net Profit: 10.79%'
+'Risk: 63.86%
+Total Return: 95.18'
+'Net Profit: -4.82%'
+'Risk: 59.61%
+Total Return: 76.87'
+'Net Profit: -23.13%'
+'Risk: 48.3%
+Total Return: 65.03'
+'Net Profit: -34.97%'
+'Risk: 49.39%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 118.75'
+'Net Profit: 18.75%'
+'Risk: 50.04%
+Total Return: 89.33'
+'Net Profit: -10.67%'
+'Risk: 52.66%
+Total Return: 95.4'
+'Net Profit: -4.6%'
+'Risk: 61.7%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 102.48'
+'Net Profit: 2.48%'
+'Risk: 51.55%
+Total Return: 83.75'
+'Net Profit: -16.25%'
+'Risk: 51.67%
+Total Return: 107.43'
+'Net Profit: 7.43%'
+'Risk: 0.0%
+Total Return: 121.15'
+'Net Profit: 21.15%'
+'Risk: 52.46%
+Total Return: 124.58'
+'Net Profit: 24.58%'
+'Risk: 46.13%
+Total Return: 107.5'
+'Net Profit: 7.5%'
+'Risk: 54.52%
+Total Return: 102.54'
+'Net Profit: 2.54%'
+'Risk: 54.04%
+Total Return: 96.31'
+'Net Profit: -3.69%'
+'Risk: 56.84%
+Total Return: 115.21'
+'Net Profit: 15.21%'
+'Risk: 55.12%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 142.34'
+'Net Profit: 42.34%'
+'Risk: 55.77%
+Total Return: 79.16'
+'Net Profit: -20.84%'
+'Risk: 53.82%
+Total Return: 89.67'
+'Net Profit: -10.33%'
+'Risk: 60.06%
+Total Return: 138.81'
+'Net Profit: 38.81%'
+'Risk: 52.74%
+Total Return: 102.72'
+'Net Profit: 2.72%'
+'Risk: 53.99%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 119.38'
+'Net Profit: 19.38%'
+'Risk: 47.71%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 97.65'
+'Net Profit: -2.35%'
+'Risk: 51.51%
+Total Return: 122.34'
+'Net Profit: 22.34%'
+'Risk: 60.22%
+Generation:  8
+Total Return: 87.02'
+'Net Profit: -12.98%'
+'Risk: 55.74%
+Total Return: 92.61'
+'Net Profit: -7.39%'
+'Risk: 60.18%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 115.59'
+'Net Profit: 15.59%'
+'Risk: 63.68%
+Total Return: 120.82'
+'Net Profit: 20.82%'
+'Risk: 46.69%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 88.88'
+'Net Profit: -11.12%'
+'Risk: 0.0%
+Total Return: 201.25'
+'Net Profit: 101.25%'
+'Risk: 48.34%
+Total Return: 78.52'
+'Net Profit: -21.48%'
+'Risk: 56.31%
+Total Return: 59.11'
+'Net Profit: -40.89%'
+'Risk: 49.55%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 140.95'
+'Net Profit: 40.95%'
+'Risk: 53.03%
+Total Return: 116.4'
+'Net Profit: 16.4%'
+'Risk: 45.65%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 109.02'
+'Net Profit: 9.02%'
+'Risk: 0.0%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 90.08'
+'Net Profit: -9.92%'
+'Risk: 49.82%
+Total Return: 84.23'
+'Net Profit: -15.77%'
+'Risk: 0.0%
+Total Return: 81.98'
+'Net Profit: -18.02%'
+'Risk: 56.78%
+Total Return: 72.67'
+'Net Profit: -27.33%'
+'Risk: 54.35%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 104.37'
+'Net Profit: 4.37%'
+'Risk: 52.1%
+Total Return: 129.97'
+'Net Profit: 29.97%'
+'Risk: 52.04%
+Total Return: 95.67'
+'Net Profit: -4.33%'
+'Risk: 50.4%
+Total Return: 100.52'
+'Net Profit: 0.52%'
+'Risk: 49.66%
+Total Return: 98.76'
+'Net Profit: -1.24%'
+'Risk: 50.56%
+Total Return: 122.64'
+'Net Profit: 22.64%'
+'Risk: 46.39%
+Total Return: 99.55'
+'Net Profit: -0.45%'
+'Risk: 0.0%
+Total Return: 109.96'
+'Net Profit: 9.96%'
+'Risk: 53.36%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 115.97'
+'Net Profit: 15.97%'
+'Risk: 51.79%
+Total Return: 61.41'
+'Net Profit: -38.59%'
+'Risk: 51.98%
+Total Return: 134.87'
+'Net Profit: 34.87%'
+'Risk: 50.79%
+Total Return: 118.75'
+'Net Profit: 18.75%'
+'Risk: 50.04%
+Total Return: 67.68'
+'Net Profit: -32.32%'
+'Risk: 50.87%
+Total Return: 92.04'
+'Net Profit: -7.96%'
+'Risk: 51.46%
+Total Return: 121.15'
+'Net Profit: 21.15%'
+'Risk: 52.46%
+Total Return: 89.33'
+'Net Profit: -10.67%'
+'Risk: 52.66%
+Total Return: 102.17'
+'Net Profit: 2.17%'
+'Risk: 54.52%
+Total Return: 93.56'
+'Net Profit: -6.44%'
+'Risk: 54.05%
+Total Return: 89.75'
+'Net Profit: -10.25%'
+'Risk: 40.16%
+Total Return: 105.09'
+'Net Profit: 5.09%'
+'Risk: 7.43%
+Total Return: 156.19'
+'Net Profit: 56.19%'
+'Risk: 53.83%
+Total Return: 104.18'
+'Net Profit: 4.18%'
+'Risk: 55.27%
+Total Return: 118.75'
+'Net Profit: 18.75%'
+'Risk: 50.04%
+Total Return: 46.48'
+'Net Profit: -53.52%'
+'Risk: 50.5%
+Total Return: 91.3'
+'Net Profit: -8.7%'
+'Risk: 62.33%
+Total Return: 102.72'
+'Net Profit: 2.72%'
+'Risk: 53.99%
+Total Return: 117.0'
+'Net Profit: 17.0%'
+'Risk: 63.75%
+Total Return: 107.52'
+'Net Profit: 7.52%'
+'Risk: 50.65%
+Total Return: 95.18'
+'Net Profit: -4.82%'
+'Risk: 59.61%
+Total Return: 97.79'
+'Net Profit: -2.21%'
+'Risk: 6.45%
+Total Return: 115.84'
+'Net Profit: 15.84%'
+'Risk: 50.31%
+Total Return: 106.47'
+'Net Profit: 6.47%'
+'Risk: 65.55%
+Total Return: 95.4'
+'Net Profit: -4.6%'
+'Risk: 61.7%
+Total Return: 115.21'
+'Net Profit: 15.21%'
+'Risk: 55.12%
+Total Return: 94.79'
+'Net Profit: -5.21%'
+'Risk: 55.69%
+Total Return: 97.65'
+'Net Profit: -2.35%'
+'Risk: 51.51%
+Total Return: 119.68'
+'Net Profit: 19.68%'
+'Risk: 52.33%
+Total Return: 119.26'
+'Net Profit: 19.26%'
+'Risk: 47.12%
+Total Return: 92.01'
+'Net Profit: -7.99%'
+'Risk: 45.5%
+Total Return: 168.75'
+'Net Profit: 68.75%'
+'Risk: 52.77%
+Total Return: 95.72'
+'Net Profit: -4.28%'
+'Risk: 51.52%
+Total Return: 114.45'
+'Net Profit: 14.45%'
+'Risk: 48.71%
+Total Return: 93.09'
+'Net Profit: -6.91%'
+'Risk: 52.14%
+Total Return: 150.78'
+'Net Profit: 50.78%'
+'Risk: 37.86%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 89.18'
+'Net Profit: -10.82%'
+'Risk: 59.67%
+Total Return: 128.43'
+'Net Profit: 28.43%'
+'Risk: 46.45%
+Total Return: 165.68'
+'Net Profit: 65.68%'
+'Risk: 51.08%
+Total Return: 102.54'
+'Net Profit: 2.54%'
+'Risk: 54.04%
+Total Return: 102.39'
+'Net Profit: 2.39%'
+'Risk: 50.95%
+Total Return: 96.03'
+'Net Profit: -3.97%'
+'Risk: 57.86%
+Total Return: 84.5'
+'Net Profit: -15.5%'
+'Risk: 53.36%
+Total Return: 110.41'
+'Net Profit: 10.41%'
+'Risk: 65.74%
+Total Return: 110.79'
+'Net Profit: 10.79%'
+'Risk: 63.86%
+Total Return: 98.06'
+'Net Profit: -1.94%'
+'Risk: 59.94%
+Total Return: 51.2'
+'Net Profit: -48.8%'
+'Risk: 48.52%
+Total Return: 107.5'
+'Net Profit: 7.5%'
+'Risk: 54.52%
+Total Return: 100.16'
+'Net Profit: 0.16%'
+'Risk: 50.39%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 116.43'
+'Net Profit: 16.43%'
+'Risk: 45.72%
+Total Return: 86.95'
+'Net Profit: -13.05%'
+'Risk: 57.7%
+Total Return: 77.84'
+'Net Profit: -22.16%'
+'Risk: 44.16%
+Total Return: 102.54'
+'Net Profit: 2.54%'
+'Risk: 54.04%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 35.39'
+'Net Profit: -64.61%'
+'Risk: 50.31%
+Total Return: 93.94'
+'Net Profit: -6.06%'
+'Risk: 0.0%
+Total Return: 114.12'
+'Net Profit: 14.12%'
+'Risk: 48.71%
+Total Return: 124.83'
+'Net Profit: 24.83%'
+'Risk: 45.94%
+Total Return: 71.12'
+'Net Profit: -28.88%'
+'Risk: 51.77%
+Total Return: 106.62'
+'Net Profit: 6.62%'
+'Risk: 52.76%
+Total Return: 82.24'
+'Net Profit: -17.76%'
+'Risk: 51.61%
+Total Return: 89.94'
+'Net Profit: -10.06%'
+'Risk: 62.1%
+Total Return: 125.35'
+'Net Profit: 25.35%'
+'Risk: 50.48%
+Total Return: 77.95'
+'Net Profit: -22.05%'
+'Risk: 54.47%
+Total Return: 82.23'
+'Net Profit: -17.77%'
+'Risk: 57.22%
+Total Return: 115.78'
+'Net Profit: 15.78%'
+'Risk: 54.42%
+Generation:  9
+Total Return: 82.24'
+'Net Profit: -17.76%'
+'Risk: 51.61%
+Total Return: 95.4'
+'Net Profit: -4.6%'
+'Risk: 61.7%
+Total Return: 93.58'
+'Net Profit: -6.42%'
+'Risk: 60.31%
+Total Return: 93.67'
+'Net Profit: -6.33%'
+'Risk: 54.14%
+Total Return: 118.75'
+'Net Profit: 18.75%'
+'Risk: 50.04%
+Total Return: 104.94'
+'Net Profit: 4.94%'
+'Risk: 49.17%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 67.8'
+'Net Profit: -32.2%'
+'Risk: 50.18%
+Total Return: 73.74'
+'Net Profit: -26.26%'
+'Risk: 52.15%
+Total Return: 58.11'
+'Net Profit: -41.89%'
+'Risk: 55.64%
+Total Return: 118.75'
+'Net Profit: 18.75%'
+'Risk: 50.04%
+Total Return: 73.76'
+'Net Profit: -26.24%'
+'Risk: 1.95%
+Total Return: 99.55'
+'Net Profit: -0.45%'
+'Risk: 0.0%
+Total Return: 81.98'
+'Net Profit: -18.02%'
+'Risk: 56.78%
+Total Return: 78.7'
+'Net Profit: -21.3%'
+'Risk: 48.89%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 97.58'
+'Net Profit: -2.42%'
+'Risk: 58.3%
+Total Return: 87.46'
+'Net Profit: -12.54%'
+'Risk: 55.49%
+Total Return: 115.59'
+'Net Profit: 15.59%'
+'Risk: 63.68%
+Total Return: 95.72'
+'Net Profit: -4.28%'
+'Risk: 51.52%
+Total Return: 92.04'
+'Net Profit: -7.96%'
+'Risk: 51.46%
+Total Return: 124.83'
+'Net Profit: 24.83%'
+'Risk: 45.94%
+Total Return: 129.97'
+'Net Profit: 29.97%'
+'Risk: 52.04%
+Total Return: 114.45'
+'Net Profit: 14.45%'
+'Risk: 48.71%
+Total Return: 84.68'
+'Net Profit: -15.32%'
+'Risk: 58.8%
+Total Return: 108.78'
+'Net Profit: 8.78%'
+'Risk: 51.73%
+Total Return: 89.97'
+'Net Profit: -10.03%'
+'Risk: 53.52%
+Total Return: 89.36'
+'Net Profit: -10.64%'
+'Risk: 47.36%
+Total Return: 109.53'
+'Net Profit: 9.53%'
+'Risk: 52.1%
+Total Return: 91.6'
+'Net Profit: -8.4%'
+'Risk: 53.91%
+Total Return: 121.15'
+'Net Profit: 21.15%'
+'Risk: 55.07%
+Total Return: 77.14'
+'Net Profit: -22.86%'
+'Risk: 66.37%
+Total Return: 109.02'
+'Net Profit: 9.02%'
+'Risk: 0.0%
+Total Return: 156.19'
+'Net Profit: 56.19%'
+'Risk: 53.83%
+Total Return: 68.6'
+'Net Profit: -31.4%'
+'Risk: 54.58%
+Total Return: 235.5'
+'Net Profit: 135.5%'
+'Risk: 48.03%
+Total Return: 91.89'
+'Net Profit: -8.11%'
+'Risk: 60.49%
+Total Return: 83.76'
+'Net Profit: -16.24%'
+'Risk: 50.01%
+Total Return: 110.65'
+'Net Profit: 10.65%'
+'Risk: 50.83%
+Total Return: 141.26'
+'Net Profit: 41.26%'
+'Risk: 49.33%
+Total Return: 102.72'
+'Net Profit: 2.72%'
+'Risk: 53.99%
+Total Return: 86.95'
+'Net Profit: -13.05%'
+'Risk: 57.7%
+Total Return: 79.45'
+'Net Profit: -20.55%'
+'Risk: 51.42%
+Total Return: 77.07'
+'Net Profit: -22.93%'
+'Risk: 61.49%
+Total Return: 108.79'
+'Net Profit: 8.79%'
+'Risk: 51.72%
+Total Return: 122.59'
+'Net Profit: 22.59%'
+'Risk: 47.76%
+Total Return: 15.22'
+'Net Profit: -84.78%'
+'Risk: 48.23%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 110.65'
+'Net Profit: 10.65%'
+'Risk: 50.83%
+Total Return: 127.99'
+'Net Profit: 27.99%'
+'Risk: 47.46%
+Total Return: 156.23'
+'Net Profit: 56.23%'
+'Risk: 49.81%
+Total Return: 98.74'
+'Net Profit: -1.26%'
+'Risk: 49.68%
+Total Return: 69.03'
+'Net Profit: -30.97%'
+'Risk: 50.68%
+Total Return: 107.5'
+'Net Profit: 7.5%'
+'Risk: 54.52%
+Total Return: 126.06'
+'Net Profit: 26.06%'
+'Risk: 55.86%
+Total Return: 99.02'
+'Net Profit: -0.98%'
+'Risk: 62.48%
+Total Return: 110.62'
+'Net Profit: 10.62%'
+'Risk: 52.9%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 108.05'
+'Net Profit: 8.05%'
+'Risk: 49.13%
+Total Return: 96.89'
+'Net Profit: -3.11%'
+'Risk: 58.14%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 47.47'
+'Net Profit: -52.53%'
+'Risk: 46.58%
+Total Return: 106.73'
+'Net Profit: 6.73%'
+'Risk: 0.0%
+Total Return: 91.67'
+'Net Profit: -8.33%'
+'Risk: 0.0%
+Total Return: 129.0'
+'Net Profit: 29.0%'
+'Risk: 46.27%
+Total Return: 94.52'
+'Net Profit: -5.48%'
+'Risk: 61.44%
+Total Return: 123.34'
+'Net Profit: 23.34%'
+'Risk: 52.6%
+Total Return: 108.57'
+'Net Profit: 8.57%'
+'Risk: 52.55%
+Total Return: 117.0'
+'Net Profit: 17.0%'
+'Risk: 63.75%
+Total Return: 134.87'
+'Net Profit: 34.87%'
+'Risk: 50.79%
+Total Return: 151.25'
+'Net Profit: 51.25%'
+'Risk: 53.81%
+Total Return: 112.77'
+'Net Profit: 12.77%'
+'Risk: 64.5%
+Total Return: 91.3'
+'Net Profit: -8.7%'
+'Risk: 62.33%
+Total Return: 94.21'
+'Net Profit: -5.79%'
+'Risk: 55.57%
+Total Return: 64.23'
+'Net Profit: -35.77%'
+'Risk: 51.7%
+Total Return: 97.3'
+'Net Profit: -2.7%'
+'Risk: 62.99%
+Total Return: 74.44'
+'Net Profit: -25.56%'
+'Risk: 51.32%
+Total Return: 145.87'
+'Net Profit: 45.87%'
+'Risk: 49.34%
+Total Return: 118.75'
+'Net Profit: 18.75%'
+'Risk: 50.04%
+Total Return: 130.28'
+'Net Profit: 30.28%'
+'Risk: 52.64%
+Total Return: 106.0'
+'Net Profit: 6.0%'
+'Risk: 0.0%
+Total Return: 93.09'
+'Net Profit: -6.91%'
+'Risk: 52.14%
+Total Return: 152.53'
+'Net Profit: 52.53%'
+'Risk: 49.38%
+Total Return: 79.63'
+'Net Profit: -20.37%'
+'Risk: 60.08%
+Total Return: 108.77'
+'Net Profit: 8.77%'
+'Risk: 56.47%
+Total Return: 107.48'
+'Net Profit: 7.48%'
+'Risk: 53.67%
+Total Return: 125.09'
+'Net Profit: 25.09%'
+'Risk: 47.0%
+Total Return: 100.0'
+'Net Profit: 0.0%'
+'Risk: nan%
+Total Return: 111.5'
+'Net Profit: 11.5%'
+'Risk: 65.29%
+Total Return: 112.61'
+'Net Profit: 12.61%'
+'Risk: 54.04%
+Total Return: 133.65'
+'Net Profit: 33.65%'
+'Risk: 55.25%
+Total Return: 121.26'
+'Net Profit: 21.26%'
+'Risk: 50.29%
+Total Return: 119.68'
+'Net Profit: 19.68%'
+'Risk: 52.33%
+Total Return: 95.72'
+'Net Profit: -4.28%'
+'Risk: 51.52%
+Total Return: 109.15'
+'Net Profit: 9.15%'
+'Risk: 52.28%
+Total Return: 87.15'
+'Net Profit: -12.85%'
+'Risk: 64.05%
+Total Return: 105.07'
+'Net Profit: 5.07%'
+'Risk: 0.0%
+Total Return: 94.92'
+'Net Profit: -5.08%'
+'Risk: 57.94%
+Total Return: 100.81'
+'Net Profit: 0.81%'
+'Risk: 54.38%
+Total Return: 118.75'
+'Net Profit: 18.75%'
+'Risk: 50.04%
+
