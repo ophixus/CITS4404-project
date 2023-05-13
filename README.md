@@ -1,5 +1,12 @@
 # **CITS4404-Project**
-This project is a Bitcoin trading bot implemented in Python using adaptive AI techniques. The bot uses historical data on the BTC/AUD pair from the Kraken exchange to make buy and sell decisions. The bot is able to make buy and sell decisions based on the following indicators: (TBA)
+This project is a Bitcoin trading bot implemented in Python using adaptive AI techniques. The bot uses historical data on the BTC/AUD pair from the Kraken exchange to make buy and sell decisions. The bot is able to make buy and sell decisions based on the following indicators: 
+ - Bollinger Bands
+ - Keltner Channels
+ - True Range
+ - Simple Linear Regression
+
+Final code is NSGA-II with Strategy notebook, please use this file for generating results as seen in the report.
+
 ## Table of Contents
 - [Overview](#overview)
 - [Setup](#setup)
