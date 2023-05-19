@@ -1,4 +1,4 @@
-# **CITS4404-Project**
+# **Trading Strategy Optimisation with a Multi-objective Genetic Algorithm**
 This project is a Bitcoin trading bot implemented in Python using adaptive AI techniques. The bot uses historical data on the BTC/AUD pair from the Kraken exchange to make buy and sell decisions. The bot is able to make buy and sell decisions based on the following indicators: 
  - Bollinger Bands
  - Keltner Channels
